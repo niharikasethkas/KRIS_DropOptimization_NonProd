@@ -1,0 +1,29 @@
+FROM python:3.9.10-slim
+
+# Proxy
+ARG SF_DB_PASSWORD
+ARG PROXY_URL=http://proxy.int.sharedsvc.a-sharedinfra.net:8080
+
+ENV no_proxy=127.0.0.1,localhost,.kaccess.net,.kaccess.com.au,.kmtltd.net.au,.compute.internal,.a-sharedinfra.net,169.254.169.254,ec2-user
+ENV NO_PROXY=127.0.0.1,localhost,.kaccess.net,.kaccess.com.au,.kmtltd.net.au,.compute.internal,.a-sharedinfra.net,169.254.169.254,ec2-user
+ENV http_proxy=$PROXY_URL
+ENV https_proxy=$PROXY_URL
+ENV HTTP_PROXY=$PROXY_URL
+ENV HTTPS_PROXy=$PROXY_URL
+ENV SF_DB_PASSWORD=$SF_DB_PASSWORD
+
+# Install software
+RUN apt-get update && apt-get install -y git && apt-get install -y vim && apt-get install -y gcc && rm -rf /var/lib/apt/lists/*
+RUN python -m pip install -U pip 
+
+# Copying files
+RUN mkdir -p /projects/kris_do_nonprod
+COPY ./ /projects/kris_do_nonprod
+WORKDIR /projects/kris_do_nonprod
+
+# Installing the requirments
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Setting the directory
+WORKDIR /projects/kris_do_nonprod/app/airflow
+ENV PYTHONPATH="/projects/kris_do_nonprod"

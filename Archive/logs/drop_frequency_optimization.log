@@ -1,0 +1,2786 @@
+[2023-03-17:21:15:05] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-17:21:15:05] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-17:21:15:05] | INFO | Setting use_openssl_only mode to False
+[2023-03-17:21:15:07] | INFO | query: [select current_database(), current_schema();]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [ROLLBACK]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [ROLLBACK]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY Styl...]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [ROLLBACK]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [ROLLBACK]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [select distinct a.STYLE_ID as NY Style ID, a.STYLE_ID as NY Kmart Style Nbr, a.P...]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [ROLLBACK]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:15:08] | INFO | query: [ROLLBACK]
+[2023-03-17:21:15:08] | INFO | query execution done
+[2023-03-17:21:40:24] | INFO | query: [ROLLBACK]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:40:25] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:40:25] | INFO | query: [ROLLBACK]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:40:25] | INFO | query: [ROLLBACK]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:40:25] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:40:25] | INFO | query: [ROLLBACK]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:40:25] | INFO | query: [ROLLBACK]
+[2023-03-17:21:40:25] | INFO | query execution done
+[2023-03-17:21:42:21] | INFO | query: [ROLLBACK]
+[2023-03-17:21:42:21] | INFO | query execution done
+[2023-03-17:21:42:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:21:42:21] | INFO | query execution done
+[2023-03-17:21:42:21] | INFO | query: [ROLLBACK]
+[2023-03-17:21:42:21] | INFO | query execution done
+[2023-03-17:21:42:21] | INFO | query: [ROLLBACK]
+[2023-03-17:21:42:21] | INFO | query execution done
+[2023-03-17:21:42:21] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:21:42:22] | INFO | query execution done
+[2023-03-17:21:42:22] | INFO | query: [ROLLBACK]
+[2023-03-17:21:42:22] | INFO | query execution done
+[2023-03-17:21:42:22] | INFO | query: [ROLLBACK]
+[2023-03-17:21:42:22] | INFO | query execution done
+[2023-03-17:21:47:42] | INFO | query: [ROLLBACK]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:47:43] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:47:43] | INFO | query: [ROLLBACK]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:47:43] | INFO | query: [ROLLBACK]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:47:43] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:47:43] | INFO | query: [ROLLBACK]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:47:43] | INFO | query: [ROLLBACK]
+[2023-03-17:21:47:43] | INFO | query execution done
+[2023-03-17:21:48:58] | INFO | query: [ROLLBACK]
+[2023-03-17:21:48:58] | INFO | query execution done
+[2023-03-17:21:48:58] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:21:48:59] | INFO | query execution done
+[2023-03-17:21:48:59] | INFO | query: [ROLLBACK]
+[2023-03-17:21:48:59] | INFO | query execution done
+[2023-03-17:21:48:59] | INFO | query: [ROLLBACK]
+[2023-03-17:21:48:59] | INFO | query execution done
+[2023-03-17:21:48:59] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:21:49:00] | INFO | query execution done
+[2023-03-17:21:49:01] | INFO | query: [ROLLBACK]
+[2023-03-17:21:49:01] | INFO | query execution done
+[2023-03-17:21:57:44] | INFO | query: [ROLLBACK]
+[2023-03-17:21:57:45] | INFO | query execution done
+[2023-03-17:21:57:45] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:21:57:45] | INFO | query execution done
+[2023-03-17:21:57:45] | INFO | query: [ROLLBACK]
+[2023-03-17:21:57:45] | INFO | query execution done
+[2023-03-17:21:57:45] | INFO | query: [ROLLBACK]
+[2023-03-17:21:57:45] | INFO | query execution done
+[2023-03-17:21:57:45] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:21:57:46] | INFO | query execution done
+[2023-03-17:21:57:46] | INFO | query: [ROLLBACK]
+[2023-03-17:21:57:46] | INFO | query execution done
+[2023-03-17:22:15:13] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:13] | INFO | query execution done
+[2023-03-17:22:15:13] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:22:15:13] | INFO | query execution done
+[2023-03-17:22:15:13] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:13] | INFO | query execution done
+[2023-03-17:22:15:13] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:13] | INFO | query execution done
+[2023-03-17:22:15:13] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:22:15:15] | INFO | query execution done
+[2023-03-17:22:15:16] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:16] | INFO | query execution done
+[2023-03-17:22:15:16] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:16] | INFO | query execution done
+[2023-03-17:22:15:16] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:22:15:16] | INFO | query execution done
+[2023-03-17:22:15:16] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:16] | INFO | query execution done
+[2023-03-17:22:15:16] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:17] | INFO | query execution done
+[2023-03-17:22:15:17] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:22:15:17] | INFO | query execution done
+[2023-03-17:22:15:17] | INFO | query: [ROLLBACK]
+[2023-03-17:22:15:17] | INFO | query execution done
+[2023-03-17:23:19:30] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-17:23:19:30] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-17:23:19:30] | INFO | Setting use_openssl_only mode to False
+[2023-03-17:23:19:31] | INFO | query: [select current_database(), current_schema();]
+[2023-03-17:23:19:31] | INFO | query execution done
+[2023-03-17:23:19:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:31] | INFO | query execution done
+[2023-03-17:23:19:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:31] | INFO | query execution done
+[2023-03-17:23:19:31] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:23:19:31] | INFO | query execution done
+[2023-03-17:23:19:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:31] | INFO | query execution done
+[2023-03-17:23:19:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:31] | INFO | query execution done
+[2023-03-17:23:19:31] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:23:19:33] | INFO | query execution done
+[2023-03-17:23:19:36] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:36] | INFO | query execution done
+[2023-03-17:23:19:38] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:38] | INFO | query execution done
+[2023-03-17:23:19:38] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:23:19:38] | INFO | query execution done
+[2023-03-17:23:19:38] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:38] | INFO | query execution done
+[2023-03-17:23:19:38] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:38] | INFO | query execution done
+[2023-03-17:23:19:38] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:23:19:38] | INFO | query execution done
+[2023-03-17:23:19:38] | INFO | query: [ROLLBACK]
+[2023-03-17:23:19:38] | INFO | query execution done
+[2023-03-17:23:26:01] | INFO | query: [ROLLBACK]
+[2023-03-17:23:26:02] | INFO | query execution done
+[2023-03-17:23:26:02] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-17:23:26:02] | INFO | query execution done
+[2023-03-17:23:26:02] | INFO | query: [ROLLBACK]
+[2023-03-17:23:26:02] | INFO | query execution done
+[2023-03-17:23:26:02] | INFO | query: [ROLLBACK]
+[2023-03-17:23:26:02] | INFO | query execution done
+[2023-03-17:23:26:02] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-17:23:26:03] | INFO | query execution done
+[2023-03-17:23:26:03] | INFO | query: [ROLLBACK]
+[2023-03-17:23:26:03] | INFO | query execution done
+[2023-03-17:23:27:46] | INFO | query: [ROLLBACK]
+[2023-03-17:23:27:46] | INFO | query execution done
+[2023-03-17:23:27:46] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:23:27:47] | INFO | query execution done
+[2023-03-17:23:27:47] | INFO | query: [ROLLBACK]
+[2023-03-17:23:27:47] | INFO | query execution done
+[2023-03-17:23:27:47] | INFO | query: [ROLLBACK]
+[2023-03-17:23:27:47] | INFO | query execution done
+[2023-03-17:23:27:47] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:23:27:47] | INFO | query execution done
+[2023-03-17:23:27:47] | INFO | query: [ROLLBACK]
+[2023-03-17:23:27:47] | INFO | query execution done
+[2023-03-17:23:27:47] | INFO | query: [ROLLBACK]
+[2023-03-17:23:27:47] | INFO | query execution done
+[2023-03-17:23:28:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:31] | INFO | query execution done
+[2023-03-17:23:28:31] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-17:23:28:31] | INFO | query execution done
+[2023-03-17:23:28:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:31] | INFO | query execution done
+[2023-03-17:23:28:31] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:31] | INFO | query execution done
+[2023-03-17:23:28:31] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-17:23:28:33] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:36] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:36] | INFO | query execution done
+[2023-03-17:23:28:37] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:37] | INFO | query execution done
+[2023-03-17:23:28:37] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-17:23:28:37] | INFO | query execution done
+[2023-03-17:23:28:37] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:37] | INFO | query execution done
+[2023-03-17:23:28:37] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:37] | INFO | query execution done
+[2023-03-17:23:28:37] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-17:23:28:37] | INFO | query execution done
+[2023-03-17:23:28:37] | INFO | query: [ROLLBACK]
+[2023-03-17:23:28:37] | INFO | query execution done
+[2023-03-20:17:34:27] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-20:17:34:27] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-20:17:34:27] | INFO | Setting use_openssl_only mode to False
+[2023-03-20:17:34:28] | INFO | query: [select current_database(), current_schema();]
+[2023-03-20:17:34:28] | INFO | query execution done
+[2023-03-20:17:34:28] | INFO | query: [ROLLBACK]
+[2023-03-20:17:34:28] | INFO | query execution done
+[2023-03-20:17:34:28] | INFO | query: [ROLLBACK]
+[2023-03-20:17:34:28] | INFO | query execution done
+[2023-03-20:17:34:28] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-20:17:34:29] | INFO | query execution done
+[2023-03-20:17:34:29] | INFO | query: [ROLLBACK]
+[2023-03-20:17:34:29] | INFO | query execution done
+[2023-03-20:17:34:29] | INFO | query: [ROLLBACK]
+[2023-03-20:17:34:29] | INFO | query execution done
+[2023-03-20:17:34:29] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-20:17:34:30] | INFO | query execution done
+[2023-03-20:17:34:31] | INFO | query: [ROLLBACK]
+[2023-03-20:17:34:31] | INFO | query execution done
+[2023-03-20:17:49:25] | INFO | query: [ROLLBACK]
+[2023-03-20:17:49:25] | INFO | query execution done
+[2023-03-20:17:49:25] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:17:49:25] | INFO | query execution done
+[2023-03-20:17:49:25] | INFO | query: [ROLLBACK]
+[2023-03-20:17:49:25] | INFO | query execution done
+[2023-03-20:17:49:25] | INFO | query: [ROLLBACK]
+[2023-03-20:17:49:25] | INFO | query execution done
+[2023-03-20:17:49:25] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:17:49:25] | INFO | query execution done
+[2023-03-20:17:49:25] | INFO | query: [ROLLBACK]
+[2023-03-20:17:49:26] | INFO | query execution done
+[2023-03-20:17:49:26] | INFO | query: [ROLLBACK]
+[2023-03-20:17:49:26] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:18] | INFO | query execution done
+[2023-03-20:17:50:58] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:58] | INFO | query execution done
+[2023-03-20:17:50:58] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:17:50:58] | INFO | query execution done
+[2023-03-20:17:50:58] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:59] | INFO | query execution done
+[2023-03-20:17:50:59] | INFO | query: [ROLLBACK]
+[2023-03-20:17:50:59] | INFO | query execution done
+[2023-03-20:17:50:59] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:17:51:00] | INFO | query execution done
+[2023-03-20:17:51:00] | INFO | query: [ROLLBACK]
+[2023-03-20:17:51:00] | INFO | query execution done
+[2023-03-20:17:51:00] | INFO | query: [ROLLBACK]
+[2023-03-20:17:51:00] | INFO | query execution done
+[2023-03-20:17:51:50] | INFO | query: [ROLLBACK]
+[2023-03-20:17:51:50] | INFO | query execution done
+[2023-03-20:17:51:50] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:17:51:50] | INFO | query execution done
+[2023-03-20:17:51:50] | INFO | query: [ROLLBACK]
+[2023-03-20:17:51:50] | INFO | query execution done
+[2023-03-20:17:51:50] | INFO | query: [ROLLBACK]
+[2023-03-20:17:51:50] | INFO | query execution done
+[2023-03-20:17:51:50] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:17:51:52] | INFO | query execution done
+[2023-03-20:17:51:53] | INFO | query: [ROLLBACK]
+[2023-03-20:17:51:53] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [ROLLBACK]
+[2023-03-20:17:53:12] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:17:53:12] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [ROLLBACK]
+[2023-03-20:17:53:12] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [ROLLBACK]
+[2023-03-20:17:53:12] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:17:53:12] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [ROLLBACK]
+[2023-03-20:17:53:12] | INFO | query execution done
+[2023-03-20:17:53:12] | INFO | query: [ROLLBACK]
+[2023-03-20:17:53:13] | INFO | query execution done
+[2023-03-20:17:54:34] | INFO | query: [ROLLBACK]
+[2023-03-20:17:54:34] | INFO | query execution done
+[2023-03-20:17:54:34] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:17:54:35] | INFO | query execution done
+[2023-03-20:17:54:35] | INFO | query: [ROLLBACK]
+[2023-03-20:17:54:35] | INFO | query execution done
+[2023-03-20:17:54:35] | INFO | query: [ROLLBACK]
+[2023-03-20:17:54:35] | INFO | query execution done
+[2023-03-20:17:54:35] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:17:54:35] | INFO | query execution done
+[2023-03-20:17:54:37] | INFO | query: [ROLLBACK]
+[2023-03-20:17:54:37] | INFO | query execution done
+[2023-03-20:17:56:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:56:18] | INFO | query execution done
+[2023-03-20:17:56:18] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-20:17:56:18] | INFO | query execution done
+[2023-03-20:17:56:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:56:18] | INFO | query execution done
+[2023-03-20:17:56:18] | INFO | query: [ROLLBACK]
+[2023-03-20:17:56:18] | INFO | query execution done
+[2023-03-20:17:56:18] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-20:17:56:19] | INFO | query execution done
+[2023-03-20:17:56:19] | INFO | query: [ROLLBACK]
+[2023-03-20:17:56:19] | INFO | query execution done
+[2023-03-20:19:03:52] | INFO | query: [ROLLBACK]
+[2023-03-20:19:03:53] | INFO | query execution done
+[2023-03-20:19:03:53] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-20:19:03:53] | INFO | query execution done
+[2023-03-20:19:03:53] | INFO | query: [ROLLBACK]
+[2023-03-20:19:03:53] | INFO | query execution done
+[2023-03-20:19:03:53] | INFO | query: [ROLLBACK]
+[2023-03-20:19:03:53] | INFO | query execution done
+[2023-03-20:19:03:53] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-20:19:03:53] | INFO | query execution done
+[2023-03-20:19:03:53] | INFO | query: [ROLLBACK]
+[2023-03-20:19:03:53] | INFO | query execution done
+[2023-03-20:23:27:10] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-20:23:27:10] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-20:23:27:10] | INFO | Setting use_openssl_only mode to False
+[2023-03-20:23:27:11] | INFO | query: [select current_database(), current_schema();]
+[2023-03-20:23:27:11] | INFO | query execution done
+[2023-03-20:23:27:11] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:11] | INFO | query execution done
+[2023-03-20:23:27:11] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:11] | INFO | query execution done
+[2023-03-20:23:27:11] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-20:23:27:11] | INFO | query execution done
+[2023-03-20:23:27:11] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:11] | INFO | query execution done
+[2023-03-20:23:27:11] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:11] | INFO | query execution done
+[2023-03-20:23:27:11] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-20:23:27:12] | INFO | query execution done
+[2023-03-20:23:27:13] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:13] | INFO | query execution done
+[2023-03-20:23:27:50] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:50] | INFO | query execution done
+[2023-03-20:23:27:50] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-20:23:27:50] | INFO | query execution done
+[2023-03-20:23:27:50] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:50] | INFO | query execution done
+[2023-03-20:23:27:50] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:50] | INFO | query execution done
+[2023-03-20:23:27:50] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-20:23:27:52] | INFO | query execution done
+[2023-03-20:23:27:54] | INFO | query: [ROLLBACK]
+[2023-03-20:23:27:54] | INFO | query execution done
+[2023-03-20:23:28:29] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:29] | INFO | query execution done
+[2023-03-20:23:28:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-20:23:28:29] | INFO | query execution done
+[2023-03-20:23:28:29] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:29] | INFO | query execution done
+[2023-03-20:23:28:29] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:29] | INFO | query execution done
+[2023-03-20:23:28:29] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-20:23:28:30] | INFO | query execution done
+[2023-03-20:23:28:30] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:30] | INFO | query execution done
+[2023-03-20:23:28:46] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:46] | INFO | query execution done
+[2023-03-20:23:28:46] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-20:23:28:46] | INFO | query execution done
+[2023-03-20:23:28:46] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:46] | INFO | query execution done
+[2023-03-20:23:28:46] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:46] | INFO | query execution done
+[2023-03-20:23:28:46] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-20:23:28:47] | INFO | query execution done
+[2023-03-20:23:28:47] | INFO | query: [ROLLBACK]
+[2023-03-20:23:28:47] | INFO | query execution done
+[2023-03-21:00:11:00] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:01] | INFO | query execution done
+[2023-03-21:00:11:01] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:00:11:01] | INFO | query execution done
+[2023-03-21:00:11:01] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:01] | INFO | query execution done
+[2023-03-21:00:11:01] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:01] | INFO | query execution done
+[2023-03-21:00:11:01] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:00:11:03] | INFO | query execution done
+[2023-03-21:00:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:05] | INFO | query execution done
+[2023-03-21:00:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:05] | INFO | query execution done
+[2023-03-21:00:11:05] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:00:11:05] | INFO | query execution done
+[2023-03-21:00:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:05] | INFO | query execution done
+[2023-03-21:00:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:05] | INFO | query execution done
+[2023-03-21:00:11:05] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:11:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:11:06] | INFO | query execution done
+[2023-03-21:00:24:23] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:24] | INFO | query execution done
+[2023-03-21:00:24:24] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:00:24:24] | INFO | query execution done
+[2023-03-21:00:24:24] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:24] | INFO | query execution done
+[2023-03-21:00:24:24] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:24] | INFO | query execution done
+[2023-03-21:00:24:24] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:00:24:26] | INFO | query execution done
+[2023-03-21:00:24:27] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:27] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:28] | INFO | query execution done
+[2023-03-21:00:24:28] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:00:24:29] | INFO | query execution done
+[2023-03-21:00:24:29] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:29] | INFO | query execution done
+[2023-03-21:00:24:29] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:29] | INFO | query execution done
+[2023-03-21:00:24:29] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:00:24:29] | INFO | query execution done
+[2023-03-21:00:24:29] | INFO | query: [ROLLBACK]
+[2023-03-21:00:24:29] | INFO | query execution done
+[2023-03-21:00:38:04] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:06] | INFO | query execution done
+[2023-03-21:00:38:06] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:00:38:06] | INFO | query execution done
+[2023-03-21:00:38:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:06] | INFO | query execution done
+[2023-03-21:00:38:06] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:06] | INFO | query execution done
+[2023-03-21:00:38:06] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:00:38:06] | INFO | query execution done
+[2023-03-21:00:38:07] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:08] | INFO | query execution done
+[2023-03-21:00:38:08] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:08] | INFO | query execution done
+[2023-03-21:00:38:08] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:00:38:08] | INFO | query execution done
+[2023-03-21:00:38:08] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:08] | INFO | query execution done
+[2023-03-21:00:38:08] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:08] | INFO | query execution done
+[2023-03-21:00:38:08] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:00:38:08] | INFO | query execution done
+[2023-03-21:00:38:10] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:10] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:11] | INFO | query execution done
+[2023-03-21:00:38:11] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:12] | INFO | query execution done
+[2023-03-21:00:38:12] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:00:38:12] | INFO | query execution done
+[2023-03-21:00:38:12] | INFO | query: [ROLLBACK]
+[2023-03-21:00:38:12] | INFO | query execution done
+[2023-03-21:00:50:28] | INFO | query: [ROLLBACK]
+[2023-03-21:00:50:29] | INFO | query execution done
+[2023-03-21:00:50:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:00:50:29] | INFO | query execution done
+[2023-03-21:00:50:29] | INFO | query: [ROLLBACK]
+[2023-03-21:00:50:29] | INFO | query execution done
+[2023-03-21:00:50:29] | INFO | query: [ROLLBACK]
+[2023-03-21:00:50:29] | INFO | query execution done
+[2023-03-21:00:50:29] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:00:50:29] | INFO | query execution done
+[2023-03-21:00:50:30] | INFO | query: [ROLLBACK]
+[2023-03-21:00:50:30] | INFO | query execution done
+[2023-03-21:15:26:08] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:15:26:08] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:15:26:08] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:15:26:09] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:15:26:09] | INFO | query execution done
+[2023-03-21:15:26:10] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:10] | INFO | query execution done
+[2023-03-21:15:26:10] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:10] | INFO | query execution done
+[2023-03-21:15:26:10] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:15:26:10] | INFO | query execution done
+[2023-03-21:15:26:10] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:10] | INFO | query execution done
+[2023-03-21:15:26:10] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:10] | INFO | query execution done
+[2023-03-21:15:26:10] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:15:26:13] | INFO | query execution done
+[2023-03-21:15:26:16] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:16] | INFO | query execution done
+[2023-03-21:15:26:52] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:52] | INFO | query execution done
+[2023-03-21:15:26:52] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:15:26:52] | INFO | query execution done
+[2023-03-21:15:26:52] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:52] | INFO | query execution done
+[2023-03-21:15:26:52] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:52] | INFO | query execution done
+[2023-03-21:15:26:52] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:15:26:53] | INFO | query execution done
+[2023-03-21:15:26:53] | INFO | query: [ROLLBACK]
+[2023-03-21:15:26:53] | INFO | query execution done
+[2023-03-21:15:27:45] | INFO | query: [ROLLBACK]
+[2023-03-21:15:27:45] | INFO | query execution done
+[2023-03-21:15:27:45] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:15:27:45] | INFO | query execution done
+[2023-03-21:15:27:45] | INFO | query: [ROLLBACK]
+[2023-03-21:15:27:45] | INFO | query execution done
+[2023-03-21:15:27:45] | INFO | query: [ROLLBACK]
+[2023-03-21:15:27:45] | INFO | query execution done
+[2023-03-21:15:27:45] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:15:27:45] | INFO | query execution done
+[2023-03-21:15:27:45] | INFO | query: [ROLLBACK]
+[2023-03-21:15:27:46] | INFO | query execution done
+[2023-03-21:17:03:31] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:17:03:31] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:17:03:31] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:17:03:32] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:17:03:32] | INFO | query execution done
+[2023-03-21:17:03:32] | INFO | query: [ROLLBACK]
+[2023-03-21:17:03:32] | INFO | query execution done
+[2023-03-21:17:03:32] | INFO | query: [ROLLBACK]
+[2023-03-21:17:03:32] | INFO | query execution done
+[2023-03-21:17:03:32] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:17:03:32] | INFO | query execution done
+[2023-03-21:17:03:32] | INFO | query: [ROLLBACK]
+[2023-03-21:17:03:32] | INFO | query execution done
+[2023-03-21:17:03:32] | INFO | query: [ROLLBACK]
+[2023-03-21:17:03:32] | INFO | query execution done
+[2023-03-21:17:03:32] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:17:03:33] | INFO | query execution done
+[2023-03-21:17:03:38] | INFO | query: [ROLLBACK]
+[2023-03-21:17:03:38] | INFO | query execution done
+[2023-03-21:17:04:05] | INFO | query: [ROLLBACK]
+[2023-03-21:17:04:05] | INFO | query execution done
+[2023-03-21:17:04:05] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct PRODUCT_STYLE_SOURCE_ID...]
+[2023-03-21:17:04:05] | INFO | query execution done
+[2023-03-21:17:04:05] | INFO | query: [ROLLBACK]
+[2023-03-21:17:04:05] | INFO | query execution done
+[2023-03-21:17:04:05] | INFO | query: [ROLLBACK]
+[2023-03-21:17:04:05] | INFO | query execution done
+[2023-03-21:17:04:05] | INFO | query: [select distinct PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommended_AWS...]
+[2023-03-21:17:04:06] | INFO | query execution done
+[2023-03-21:17:04:08] | INFO | query: [ROLLBACK]
+[2023-03-21:17:04:08] | INFO | query execution done
+[2023-03-21:17:07:16] | INFO | query: [ROLLBACK]
+[2023-03-21:17:07:17] | INFO | query execution done
+[2023-03-21:17:07:17] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:17:07:17] | INFO | query execution done
+[2023-03-21:17:07:17] | INFO | query: [ROLLBACK]
+[2023-03-21:17:07:18] | INFO | query execution done
+[2023-03-21:17:07:18] | INFO | query: [ROLLBACK]
+[2023-03-21:17:07:18] | INFO | query execution done
+[2023-03-21:17:07:18] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:17:07:18] | INFO | query execution done
+[2023-03-21:17:07:21] | INFO | query: [ROLLBACK]
+[2023-03-21:17:07:21] | INFO | query execution done
+[2023-03-21:17:10:39] | INFO | query: [ROLLBACK]
+[2023-03-21:17:10:39] | INFO | query execution done
+[2023-03-21:17:10:39] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:17:10:39] | INFO | query execution done
+[2023-03-21:17:10:39] | INFO | query: [ROLLBACK]
+[2023-03-21:17:10:39] | INFO | query execution done
+[2023-03-21:17:10:39] | INFO | query: [ROLLBACK]
+[2023-03-21:17:10:40] | INFO | query execution done
+[2023-03-21:17:10:40] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:17:10:40] | INFO | query execution done
+[2023-03-21:17:10:40] | INFO | query: [ROLLBACK]
+[2023-03-21:17:10:40] | INFO | query execution done
+[2023-03-21:17:11:11] | INFO | query: [ROLLBACK]
+[2023-03-21:17:11:11] | INFO | query execution done
+[2023-03-21:17:11:11] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:17:11:12] | INFO | query execution done
+[2023-03-21:17:11:12] | INFO | query: [ROLLBACK]
+[2023-03-21:17:11:12] | INFO | query execution done
+[2023-03-21:17:11:12] | INFO | query: [ROLLBACK]
+[2023-03-21:17:11:12] | INFO | query execution done
+[2023-03-21:17:11:12] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:17:11:12] | INFO | query execution done
+[2023-03-21:17:11:12] | INFO | query: [ROLLBACK]
+[2023-03-21:17:11:12] | INFO | query execution done
+[2023-03-21:17:22:36] | INFO | query: [ROLLBACK]
+[2023-03-21:17:22:37] | INFO | query execution done
+[2023-03-21:17:22:37] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:17:22:37] | INFO | query execution done
+[2023-03-21:17:22:37] | INFO | query: [ROLLBACK]
+[2023-03-21:17:22:37] | INFO | query execution done
+[2023-03-21:17:22:37] | INFO | query: [ROLLBACK]
+[2023-03-21:17:22:37] | INFO | query execution done
+[2023-03-21:17:22:37] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:17:22:37] | INFO | query execution done
+[2023-03-21:17:22:38] | INFO | query: [ROLLBACK]
+[2023-03-21:17:22:38] | INFO | query execution done
+[2023-03-21:17:42:10] | INFO | query: [ROLLBACK]
+[2023-03-21:17:42:10] | INFO | query execution done
+[2023-03-21:17:42:10] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:17:42:10] | INFO | query execution done
+[2023-03-21:17:42:10] | INFO | query: [ROLLBACK]
+[2023-03-21:17:42:10] | INFO | query execution done
+[2023-03-21:17:42:10] | INFO | query: [ROLLBACK]
+[2023-03-21:17:42:10] | INFO | query execution done
+[2023-03-21:17:42:10] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:17:42:11] | INFO | query execution done
+[2023-03-21:17:42:11] | INFO | query: [ROLLBACK]
+[2023-03-21:17:42:11] | INFO | query execution done
+[2023-03-21:17:58:25] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:17:58:25] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:17:58:25] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:17:58:26] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:26] | INFO | query: [ROLLBACK]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:26] | INFO | query: [ROLLBACK]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:26] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:26] | INFO | query: [ROLLBACK]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:26] | INFO | query: [ROLLBACK]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:26] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:17:58:26] | INFO | query execution done
+[2023-03-21:17:58:27] | INFO | query: [ROLLBACK]
+[2023-03-21:17:58:27] | INFO | query execution done
+[2023-03-21:17:58:27] | INFO | query: [ROLLBACK]
+[2023-03-21:17:58:27] | INFO | query execution done
+[2023-03-21:18:00:37] | INFO | query: [ROLLBACK]
+[2023-03-21:18:00:37] | INFO | query execution done
+[2023-03-21:18:00:37] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:18:00:37] | INFO | query execution done
+[2023-03-21:18:00:37] | INFO | query: [ROLLBACK]
+[2023-03-21:18:00:38] | INFO | query execution done
+[2023-03-21:18:00:38] | INFO | query: [ROLLBACK]
+[2023-03-21:18:00:38] | INFO | query execution done
+[2023-03-21:18:00:38] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:18:00:40] | INFO | query execution done
+[2023-03-21:18:00:42] | INFO | query: [ROLLBACK]
+[2023-03-21:18:00:42] | INFO | query execution done
+[2023-03-21:18:02:13] | INFO | query: [ROLLBACK]
+[2023-03-21:18:02:13] | INFO | query execution done
+[2023-03-21:18:02:13] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct PRODUCT_STYLE_SOURCE_ID...]
+[2023-03-21:18:02:13] | INFO | query execution done
+[2023-03-21:18:02:13] | INFO | query: [ROLLBACK]
+[2023-03-21:18:02:13] | INFO | query execution done
+[2023-03-21:18:02:13] | INFO | query: [ROLLBACK]
+[2023-03-21:18:02:13] | INFO | query execution done
+[2023-03-21:18:02:13] | INFO | query: [select distinct PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommended_AWS...]
+[2023-03-21:18:02:13] | INFO | query execution done
+[2023-03-21:18:02:14] | INFO | query: [ROLLBACK]
+[2023-03-21:18:02:14] | INFO | query execution done
+[2023-03-21:18:04:50] | INFO | query: [ROLLBACK]
+[2023-03-21:18:04:51] | INFO | query execution done
+[2023-03-21:18:04:51] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:18:04:51] | INFO | query execution done
+[2023-03-21:18:04:51] | INFO | query: [ROLLBACK]
+[2023-03-21:18:04:51] | INFO | query execution done
+[2023-03-21:18:04:51] | INFO | query: [ROLLBACK]
+[2023-03-21:18:04:51] | INFO | query execution done
+[2023-03-21:18:04:51] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:18:04:51] | INFO | query execution done
+[2023-03-21:18:04:51] | INFO | query: [ROLLBACK]
+[2023-03-21:18:04:51] | INFO | query execution done
+[2023-03-21:18:11:04] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:18:11:04] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:18:11:04] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:18:11:04] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:05] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:05] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:05] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:18:11:05] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:07] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:07] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct PRODUCT_STYLE_SOURCE_ID...]
+[2023-03-21:18:11:07] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:07] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:07] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [select distinct PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommended_AWS...]
+[2023-03-21:18:11:07] | INFO | query execution done
+[2023-03-21:18:11:07] | INFO | query: [ROLLBACK]
+[2023-03-21:18:11:08] | INFO | query execution done
+[2023-03-21:18:25:06] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:06] | INFO | query execution done
+[2023-03-21:18:25:06] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:18:25:06] | INFO | query execution done
+[2023-03-21:18:25:06] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:07] | INFO | query execution done
+[2023-03-21:18:25:07] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:07] | INFO | query execution done
+[2023-03-21:18:25:07] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:18:25:08] | INFO | query execution done
+[2023-03-21:18:25:10] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:10] | INFO | query execution done
+[2023-03-21:18:25:25] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:25] | INFO | query execution done
+[2023-03-21:18:25:25] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:18:25:25] | INFO | query execution done
+[2023-03-21:18:25:25] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:25] | INFO | query execution done
+[2023-03-21:18:25:25] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:25] | INFO | query execution done
+[2023-03-21:18:25:25] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:18:25:25] | INFO | query execution done
+[2023-03-21:18:25:26] | INFO | query: [ROLLBACK]
+[2023-03-21:18:25:26] | INFO | query execution done
+[2023-03-21:18:48:51] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:18:48:51] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:18:48:51] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:18:48:52] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:18:48:52] | INFO | query execution done
+[2023-03-21:18:48:52] | INFO | query: [ROLLBACK]
+[2023-03-21:18:48:53] | INFO | query execution done
+[2023-03-21:18:48:53] | INFO | query: [ROLLBACK]
+[2023-03-21:18:48:53] | INFO | query execution done
+[2023-03-21:18:48:53] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:18:48:53] | INFO | query execution done
+[2023-03-21:18:48:53] | INFO | query: [ROLLBACK]
+[2023-03-21:18:48:53] | INFO | query execution done
+[2023-03-21:18:48:53] | INFO | query: [ROLLBACK]
+[2023-03-21:18:48:53] | INFO | query execution done
+[2023-03-21:18:48:53] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:18:48:53] | INFO | query execution done
+[2023-03-21:18:48:55] | INFO | query: [ROLLBACK]
+[2023-03-21:18:48:55] | INFO | query execution done
+[2023-03-21:18:49:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:49:20] | INFO | query execution done
+[2023-03-21:18:49:20] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:18:49:20] | INFO | query execution done
+[2023-03-21:18:49:20] | INFO | query: [ROLLBACK]
+[2023-03-21:18:49:20] | INFO | query execution done
+[2023-03-21:18:49:20] | INFO | query: [ROLLBACK]
+[2023-03-21:18:49:20] | INFO | query execution done
+[2023-03-21:18:49:20] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:18:49:20] | INFO | query execution done
+[2023-03-21:18:49:22] | INFO | query: [ROLLBACK]
+[2023-03-21:18:49:22] | INFO | query execution done
+[2023-03-21:18:51:16] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:16] | INFO | query execution done
+[2023-03-21:18:51:16] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:18:51:16] | INFO | query execution done
+[2023-03-21:18:51:16] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:16] | INFO | query execution done
+[2023-03-21:18:51:16] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:16] | INFO | query execution done
+[2023-03-21:18:51:16] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:18:51:16] | INFO | query execution done
+[2023-03-21:18:51:16] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:16] | INFO | query execution done
+[2023-03-21:18:51:31] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:31] | INFO | query execution done
+[2023-03-21:18:51:31] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:18:51:31] | INFO | query execution done
+[2023-03-21:18:51:31] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:32] | INFO | query execution done
+[2023-03-21:18:51:32] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:32] | INFO | query execution done
+[2023-03-21:18:51:32] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:18:51:32] | INFO | query execution done
+[2023-03-21:18:51:32] | INFO | query: [ROLLBACK]
+[2023-03-21:18:51:32] | INFO | query execution done
+[2023-03-21:18:52:09] | INFO | query: [ROLLBACK]
+[2023-03-21:18:52:09] | INFO | query execution done
+[2023-03-21:18:52:09] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:18:52:09] | INFO | query execution done
+[2023-03-21:18:52:09] | INFO | query: [ROLLBACK]
+[2023-03-21:18:52:09] | INFO | query execution done
+[2023-03-21:18:52:09] | INFO | query: [ROLLBACK]
+[2023-03-21:18:52:09] | INFO | query execution done
+[2023-03-21:18:52:09] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:18:52:09] | INFO | query execution done
+[2023-03-21:18:52:10] | INFO | query: [ROLLBACK]
+[2023-03-21:18:52:10] | INFO | query execution done
+[2023-03-21:18:55:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:55:19] | INFO | query execution done
+[2023-03-21:18:55:19] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct a"."STYLE_ID as NY_Styl...]
+[2023-03-21:18:55:19] | INFO | query execution done
+[2023-03-21:18:55:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:55:19] | INFO | query execution done
+[2023-03-21:18:55:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:55:20] | INFO | query execution done
+[2023-03-21:18:55:20] | INFO | query: [select distinct a.STYLE_ID as NY_Style_ID, a.STYLE_ID as NY_Kmart_Style_Nbr, a.P...]
+[2023-03-21:18:55:22] | INFO | query execution done
+[2023-03-21:18:55:25] | INFO | query: [ROLLBACK]
+[2023-03-21:18:55:25] | INFO | query execution done
+[2023-03-21:18:56:16] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:16] | INFO | query execution done
+[2023-03-21:18:56:16] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:18:56:16] | INFO | query execution done
+[2023-03-21:18:56:16] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:17] | INFO | query execution done
+[2023-03-21:18:56:17] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:17] | INFO | query execution done
+[2023-03-21:18:56:17] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:18:56:17] | INFO | query execution done
+[2023-03-21:18:56:18] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:18] | INFO | query execution done
+[2023-03-21:18:56:18] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:18] | INFO | query execution done
+[2023-03-21:18:56:18] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:18:56:18] | INFO | query execution done
+[2023-03-21:18:56:18] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:19] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:19] | INFO | query execution done
+[2023-03-21:18:56:21] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:21] | INFO | query execution done
+[2023-03-21:18:56:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:18:56:21] | INFO | query execution done
+[2023-03-21:18:56:21] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:21] | INFO | query execution done
+[2023-03-21:18:56:21] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:21] | INFO | query execution done
+[2023-03-21:18:56:21] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:18:56:21] | INFO | query execution done
+[2023-03-21:18:56:22] | INFO | query: [ROLLBACK]
+[2023-03-21:18:56:22] | INFO | query execution done
+[2023-03-21:19:00:57] | INFO | query: [ROLLBACK]
+[2023-03-21:19:00:58] | INFO | query execution done
+[2023-03-21:19:00:58] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:19:00:58] | INFO | query execution done
+[2023-03-21:19:00:58] | INFO | query: [ROLLBACK]
+[2023-03-21:19:00:58] | INFO | query execution done
+[2023-03-21:19:00:58] | INFO | query: [ROLLBACK]
+[2023-03-21:19:00:58] | INFO | query execution done
+[2023-03-21:19:00:58] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:19:00:58] | INFO | query execution done
+[2023-03-21:19:00:59] | INFO | query: [ROLLBACK]
+[2023-03-21:19:00:59] | INFO | query execution done
+[2023-03-21:20:56:38] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:20:56:38] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:20:56:38] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:20:56:39] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:20:56:39] | INFO | query execution done
+[2023-03-21:20:56:39] | INFO | query: [ROLLBACK]
+[2023-03-21:20:56:39] | INFO | query execution done
+[2023-03-21:20:56:39] | INFO | query: [ROLLBACK]
+[2023-03-21:20:56:39] | INFO | query execution done
+[2023-03-21:20:56:39] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-21:20:56:39] | INFO | query execution done
+[2023-03-21:20:56:39] | INFO | query: [ROLLBACK]
+[2023-03-21:20:56:39] | INFO | query execution done
+[2023-03-21:20:56:39] | INFO | query: [ROLLBACK]
+[2023-03-21:20:56:40] | INFO | query execution done
+[2023-03-21:20:56:40] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-21:20:56:42] | INFO | query execution done
+[2023-03-21:20:56:43] | INFO | query: [ROLLBACK]
+[2023-03-21:20:56:43] | INFO | query execution done
+[2023-03-21:20:57:06] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:06] | INFO | query execution done
+[2023-03-21:20:57:06] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:20:57:06] | INFO | query execution done
+[2023-03-21:20:57:06] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:06] | INFO | query execution done
+[2023-03-21:20:57:06] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:06] | INFO | query execution done
+[2023-03-21:20:57:06] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:20:57:07] | INFO | query execution done
+[2023-03-21:20:57:08] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:08] | INFO | query execution done
+[2023-03-21:20:57:45] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:46] | INFO | query execution done
+[2023-03-21:20:57:46] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-21:20:57:46] | INFO | query execution done
+[2023-03-21:20:57:46] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:46] | INFO | query execution done
+[2023-03-21:20:57:46] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:46] | INFO | query execution done
+[2023-03-21:20:57:46] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-21:20:57:47] | INFO | query execution done
+[2023-03-21:20:57:50] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:50] | INFO | query execution done
+[2023-03-21:20:57:50] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:50] | INFO | query execution done
+[2023-03-21:20:57:50] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:20:57:50] | INFO | query execution done
+[2023-03-21:20:57:50] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:51] | INFO | query execution done
+[2023-03-21:20:57:51] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:51] | INFO | query execution done
+[2023-03-21:20:57:51] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:20:57:51] | INFO | query execution done
+[2023-03-21:20:57:51] | INFO | query: [ROLLBACK]
+[2023-03-21:20:57:51] | INFO | query execution done
+[2023-03-21:20:58:34] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:34] | INFO | query execution done
+[2023-03-21:20:58:34] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:20:58:34] | INFO | query execution done
+[2023-03-21:20:58:34] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:58:35] | INFO | query: [ROLLBACK]
+[2023-03-21:20:58:35] | INFO | query execution done
+[2023-03-21:20:59:30] | INFO | query: [ROLLBACK]
+[2023-03-21:20:59:30] | INFO | query execution done
+[2023-03-21:20:59:30] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:20:59:30] | INFO | query execution done
+[2023-03-21:20:59:30] | INFO | query: [ROLLBACK]
+[2023-03-21:20:59:30] | INFO | query execution done
+[2023-03-21:20:59:30] | INFO | query: [ROLLBACK]
+[2023-03-21:20:59:30] | INFO | query execution done
+[2023-03-21:20:59:30] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:20:59:30] | INFO | query execution done
+[2023-03-21:20:59:31] | INFO | query: [ROLLBACK]
+[2023-03-21:20:59:31] | INFO | query execution done
+[2023-03-21:21:39:00] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:21:39:00] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:21:39:00] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:21:39:01] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:21:39:01] | INFO | query execution done
+[2023-03-21:21:39:01] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:01] | INFO | query execution done
+[2023-03-21:21:39:01] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:01] | INFO | query execution done
+[2023-03-21:21:39:01] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-21:21:39:01] | INFO | query execution done
+[2023-03-21:21:39:01] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:02] | INFO | query execution done
+[2023-03-21:21:39:02] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:02] | INFO | query execution done
+[2023-03-21:21:39:02] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-21:21:39:02] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:04] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:04] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:21:39:05] | INFO | query execution done
+[2023-03-21:21:39:05] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:06] | INFO | query execution done
+[2023-03-21:21:39:55] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:55] | INFO | query execution done
+[2023-03-21:21:39:55] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:21:39:55] | INFO | query execution done
+[2023-03-21:21:39:55] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:55] | INFO | query execution done
+[2023-03-21:21:39:55] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:55] | INFO | query execution done
+[2023-03-21:21:39:55] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:21:39:55] | INFO | query execution done
+[2023-03-21:21:39:56] | INFO | query: [ROLLBACK]
+[2023-03-21:21:39:57] | INFO | query execution done
+[2023-03-21:23:55:19] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-21:23:55:19] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-21:23:55:19] | INFO | Setting use_openssl_only mode to False
+[2023-03-21:23:55:21] | INFO | query: [select current_database(), current_schema();]
+[2023-03-21:23:55:21] | INFO | query execution done
+[2023-03-21:23:55:21] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:21] | INFO | query execution done
+[2023-03-21:23:55:21] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:21] | INFO | query execution done
+[2023-03-21:23:55:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-21:23:55:21] | INFO | query execution done
+[2023-03-21:23:55:21] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:21] | INFO | query execution done
+[2023-03-21:23:55:21] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:21] | INFO | query execution done
+[2023-03-21:23:55:21] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-21:23:55:22] | INFO | query execution done
+[2023-03-21:23:55:25] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:25] | INFO | query execution done
+[2023-03-21:23:55:25] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:25] | INFO | query execution done
+[2023-03-21:23:55:25] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-21:23:55:26] | INFO | query execution done
+[2023-03-21:23:55:26] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:26] | INFO | query execution done
+[2023-03-21:23:55:26] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:26] | INFO | query execution done
+[2023-03-21:23:55:26] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-21:23:55:26] | INFO | query execution done
+[2023-03-21:23:55:27] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:27] | INFO | query execution done
+[2023-03-21:23:55:27] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:27] | INFO | query execution done
+[2023-03-21:23:55:27] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:23:55:27] | INFO | query execution done
+[2023-03-21:23:55:27] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:28] | INFO | query execution done
+[2023-03-21:23:55:28] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-21:23:55:29] | INFO | query execution done
+[2023-03-21:23:55:29] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:29] | INFO | query execution done
+[2023-03-21:23:55:32] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:32] | INFO | query execution done
+[2023-03-21:23:55:32] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-21:23:55:33] | INFO | query execution done
+[2023-03-21:23:55:33] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:33] | INFO | query execution done
+[2023-03-21:23:55:33] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:33] | INFO | query execution done
+[2023-03-21:23:55:33] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-21:23:55:33] | INFO | query execution done
+[2023-03-21:23:55:34] | INFO | query: [ROLLBACK]
+[2023-03-21:23:55:34] | INFO | query execution done
+[2023-03-22:01:03:15] | INFO | query: [ROLLBACK]
+[2023-03-22:01:03:16] | INFO | query execution done
+[2023-03-22:01:03:16] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-22:01:03:16] | INFO | query execution done
+[2023-03-22:01:03:16] | INFO | query: [ROLLBACK]
+[2023-03-22:01:03:16] | INFO | query execution done
+[2023-03-22:01:03:16] | INFO | query: [ROLLBACK]
+[2023-03-22:01:03:16] | INFO | query execution done
+[2023-03-22:01:03:16] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-22:01:03:16] | INFO | query execution done
+[2023-03-22:01:03:18] | INFO | query: [ROLLBACK]
+[2023-03-22:01:03:18] | INFO | query execution done
+[2023-03-22:21:46:17] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-22:21:46:17] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-22:21:46:17] | INFO | Setting use_openssl_only mode to False
+[2023-03-22:21:46:19] | INFO | query: [select current_database(), current_schema();]
+[2023-03-22:21:46:19] | INFO | query execution done
+[2023-03-22:21:46:19] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:19] | INFO | query execution done
+[2023-03-22:21:46:19] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:19] | INFO | query execution done
+[2023-03-22:21:46:19] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-22:21:46:19] | INFO | query execution done
+[2023-03-22:21:46:20] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:20] | INFO | query execution done
+[2023-03-22:21:46:20] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:20] | INFO | query execution done
+[2023-03-22:21:46:20] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-22:21:46:23] | INFO | query execution done
+[2023-03-22:21:46:29] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:29] | INFO | query execution done
+[2023-03-22:21:46:29] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:29] | INFO | query execution done
+[2023-03-22:21:46:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-22:21:46:29] | INFO | query execution done
+[2023-03-22:21:46:29] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:30] | INFO | query execution done
+[2023-03-22:21:46:30] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:30] | INFO | query execution done
+[2023-03-22:21:46:30] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-22:21:46:31] | INFO | query execution done
+[2023-03-22:21:46:31] | INFO | query: [ROLLBACK]
+[2023-03-22:21:46:31] | INFO | query execution done
+[2023-03-22:21:52:12] | INFO | query: [ROLLBACK]
+[2023-03-22:21:52:12] | INFO | query execution done
+[2023-03-22:21:52:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-22:21:52:12] | INFO | query execution done
+[2023-03-22:21:52:12] | INFO | query: [ROLLBACK]
+[2023-03-22:21:52:13] | INFO | query execution done
+[2023-03-22:21:52:13] | INFO | query: [ROLLBACK]
+[2023-03-22:21:52:13] | INFO | query execution done
+[2023-03-22:21:52:13] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-22:21:52:14] | INFO | query execution done
+[2023-03-22:21:52:14] | INFO | query: [ROLLBACK]
+[2023-03-22:21:52:14] | INFO | query execution done
+[2023-03-22:22:14:08] | INFO | query: [ROLLBACK]
+[2023-03-22:22:14:09] | INFO | query execution done
+[2023-03-22:22:14:09] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "SELECT a2"."PRODUCT_ID ,count(a2"."PROD...]
+[2023-03-22:22:14:10] | INFO | query execution done
+[2023-03-22:22:14:10] | INFO | query: [ROLLBACK]
+[2023-03-22:22:14:10] | INFO | query execution done
+[2023-03-22:22:14:10] | INFO | query: [ROLLBACK]
+[2023-03-22:22:14:10] | INFO | query execution done
+[2023-03-22:22:14:10] | INFO | query: [SELECT a2.PRODUCT_ID ,count(a2.PRODUCT_ID) AS NY_No_of_Stores , case when sum(a2...]
+[2023-03-22:22:14:10] | INFO | query execution done
+[2023-03-22:22:14:10] | INFO | query: [ROLLBACK]
+[2023-03-22:22:14:10] | INFO | query execution done
+[2023-03-22:22:14:10] | INFO | query: [ROLLBACK]
+[2023-03-22:22:14:10] | INFO | query execution done
+[2023-03-22:22:19:46] | INFO | query: [ROLLBACK]
+[2023-03-22:22:19:46] | INFO | query execution done
+[2023-03-22:22:19:46] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "SELECT a2"."PRODUCT_ID ,count(a2"."PROD...]
+[2023-03-22:22:19:47] | INFO | query execution done
+[2023-03-22:22:19:47] | INFO | query: [ROLLBACK]
+[2023-03-22:22:19:47] | INFO | query execution done
+[2023-03-22:22:19:47] | INFO | query: [ROLLBACK]
+[2023-03-22:22:19:47] | INFO | query execution done
+[2023-03-22:22:19:47] | INFO | query: [SELECT a2.PRODUCT_ID ,count(a2.PRODUCT_ID) AS NY_No_of_Stores , case when sum(a2...]
+[2023-03-22:22:19:48] | INFO | query execution done
+[2023-03-22:22:19:48] | INFO | query: [ROLLBACK]
+[2023-03-22:22:19:48] | INFO | query execution done
+[2023-03-22:22:24:53] | INFO | query: [ROLLBACK]
+[2023-03-22:22:24:54] | INFO | query execution done
+[2023-03-22:22:24:54] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-22:22:24:54] | INFO | query execution done
+[2023-03-22:22:24:54] | INFO | query: [ROLLBACK]
+[2023-03-22:22:24:54] | INFO | query execution done
+[2023-03-22:22:24:54] | INFO | query: [ROLLBACK]
+[2023-03-22:22:24:54] | INFO | query execution done
+[2023-03-22:22:24:54] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-22:22:24:57] | INFO | query execution done
+[2023-03-22:22:24:57] | INFO | query: [ROLLBACK]
+[2023-03-22:22:24:57] | INFO | query execution done
+[2023-03-22:22:24:57] | INFO | query: [ROLLBACK]
+[2023-03-22:22:24:57] | INFO | query execution done
+[2023-03-22:23:51:11] | INFO | query: [ROLLBACK]
+[2023-03-22:23:51:12] | INFO | query execution done
+[2023-03-22:23:51:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-22:23:51:12] | INFO | query execution done
+[2023-03-22:23:51:12] | INFO | query: [ROLLBACK]
+[2023-03-22:23:51:12] | INFO | query execution done
+[2023-03-22:23:51:12] | INFO | query: [ROLLBACK]
+[2023-03-22:23:51:12] | INFO | query execution done
+[2023-03-22:23:51:12] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-22:23:51:15] | INFO | query execution done
+[2023-03-22:23:51:15] | INFO | query: [ROLLBACK]
+[2023-03-22:23:51:16] | INFO | query execution done
+[2023-03-22:23:51:16] | INFO | query: [ROLLBACK]
+[2023-03-22:23:51:16] | INFO | query execution done
+[2023-03-23:00:07:11] | INFO | query: [ROLLBACK]
+[2023-03-23:00:07:12] | INFO | query execution done
+[2023-03-23:00:07:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-23:00:07:12] | INFO | query execution done
+[2023-03-23:00:07:12] | INFO | query: [ROLLBACK]
+[2023-03-23:00:07:12] | INFO | query execution done
+[2023-03-23:00:07:12] | INFO | query: [ROLLBACK]
+[2023-03-23:00:07:12] | INFO | query execution done
+[2023-03-23:00:07:12] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-23:00:07:15] | INFO | query execution done
+[2023-03-23:00:07:17] | INFO | query: [ROLLBACK]
+[2023-03-23:00:07:17] | INFO | query execution done
+[2023-03-23:00:22:45] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:46] | INFO | query execution done
+[2023-03-23:00:22:46] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-23:00:22:46] | INFO | query execution done
+[2023-03-23:00:22:46] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:46] | INFO | query execution done
+[2023-03-23:00:22:46] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:46] | INFO | query execution done
+[2023-03-23:00:22:46] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-23:00:22:46] | INFO | query execution done
+[2023-03-23:00:22:50] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:50] | INFO | query execution done
+[2023-03-23:00:22:57] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:57] | INFO | query execution done
+[2023-03-23:00:22:57] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-23:00:22:58] | INFO | query execution done
+[2023-03-23:00:22:58] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:58] | INFO | query execution done
+[2023-03-23:00:22:58] | INFO | query: [ROLLBACK]
+[2023-03-23:00:22:58] | INFO | query execution done
+[2023-03-23:00:22:58] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-23:00:23:02] | INFO | query execution done
+[2023-03-23:00:23:04] | INFO | query: [ROLLBACK]
+[2023-03-23:00:23:04] | INFO | query execution done
+[2023-03-23:00:23:04] | INFO | query: [ROLLBACK]
+[2023-03-23:00:23:04] | INFO | query execution done
+[2023-03-23:00:23:04] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-23:00:23:04] | INFO | query execution done
+[2023-03-23:00:23:04] | INFO | query: [ROLLBACK]
+[2023-03-23:00:23:05] | INFO | query execution done
+[2023-03-23:00:23:05] | INFO | query: [ROLLBACK]
+[2023-03-23:00:23:05] | INFO | query execution done
+[2023-03-23:00:23:05] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-23:00:23:05] | INFO | query execution done
+[2023-03-23:00:23:05] | INFO | query: [ROLLBACK]
+[2023-03-23:00:23:05] | INFO | query execution done
+[2023-03-23:00:24:19] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:19] | INFO | query execution done
+[2023-03-23:00:24:19] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-23:00:24:19] | INFO | query execution done
+[2023-03-23:00:24:19] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:19] | INFO | query execution done
+[2023-03-23:00:24:19] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:19] | INFO | query execution done
+[2023-03-23:00:24:19] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-23:00:24:19] | INFO | query execution done
+[2023-03-23:00:24:19] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:19] | INFO | query execution done
+[2023-03-23:00:24:52] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:52] | INFO | query execution done
+[2023-03-23:00:24:52] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-23:00:24:52] | INFO | query execution done
+[2023-03-23:00:24:52] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:52] | INFO | query execution done
+[2023-03-23:00:24:52] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:52] | INFO | query execution done
+[2023-03-23:00:24:52] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-23:00:24:52] | INFO | query execution done
+[2023-03-23:00:24:52] | INFO | query: [ROLLBACK]
+[2023-03-23:00:24:52] | INFO | query execution done
+[2023-03-23:00:29:01] | INFO | query: [ROLLBACK]
+[2023-03-23:00:29:02] | INFO | query execution done
+[2023-03-23:00:29:02] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-23:00:29:02] | INFO | query execution done
+[2023-03-23:00:29:02] | INFO | query: [ROLLBACK]
+[2023-03-23:00:29:02] | INFO | query execution done
+[2023-03-23:00:29:02] | INFO | query: [ROLLBACK]
+[2023-03-23:00:29:02] | INFO | query execution done
+[2023-03-23:00:29:02] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-23:00:29:02] | INFO | query execution done
+[2023-03-23:00:29:03] | INFO | query: [ROLLBACK]
+[2023-03-23:00:29:03] | INFO | query execution done
+[2023-03-23:00:31:07] | INFO | query: [delete from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-22'...]
+[2023-03-23:00:31:07] | INFO | query execution done
+[2023-03-23:00:31:07] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:07] | INFO | query execution done
+[2023-03-23:00:31:07] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:07] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-23:00:31:15] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" TEXT, "NY Kmart ...]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | query: [COMMIT]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:15] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:15] | INFO | query execution done
+[2023-03-23:00:31:24] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-23:00:31:32] | INFO | query execution done
+[2023-03-23:00:31:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:32] | INFO | query execution done
+[2023-03-23:00:31:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:31:32] | INFO | query execution done
+[2023-03-23:00:37:23] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-23:00:37:23] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-23:00:37:23] | INFO | Setting use_openssl_only mode to False
+[2023-03-23:00:37:25] | INFO | query: [select current_database(), current_schema();]
+[2023-03-23:00:37:25] | INFO | query execution done
+[2023-03-23:00:37:25] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:25] | INFO | query execution done
+[2023-03-23:00:37:25] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:25] | INFO | query execution done
+[2023-03-23:00:37:25] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-23:00:37:25] | INFO | query execution done
+[2023-03-23:00:37:26] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:26] | INFO | query execution done
+[2023-03-23:00:37:26] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:26] | INFO | query execution done
+[2023-03-23:00:37:26] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-23:00:37:29] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:32] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:32] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:33] | INFO | query execution done
+[2023-03-23:00:37:33] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-23:00:37:34] | INFO | query execution done
+[2023-03-23:00:37:34] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:34] | INFO | query execution done
+[2023-03-23:00:37:36] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:36] | INFO | query execution done
+[2023-03-23:00:37:36] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-23:00:37:36] | INFO | query execution done
+[2023-03-23:00:37:36] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:36] | INFO | query execution done
+[2023-03-23:00:37:36] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:36] | INFO | query execution done
+[2023-03-23:00:37:36] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-23:00:37:36] | INFO | query execution done
+[2023-03-23:00:37:36] | INFO | query: [ROLLBACK]
+[2023-03-23:00:37:36] | INFO | query execution done
+[2023-03-24:20:04:49] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-24:20:04:49] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-24:20:04:49] | INFO | Setting use_openssl_only mode to False
+[2023-03-24:20:04:51] | INFO | query: [select current_database(), current_schema();]
+[2023-03-24:20:04:51] | INFO | query execution done
+[2023-03-24:20:04:51] | INFO | query: [ROLLBACK]
+[2023-03-24:20:04:51] | INFO | query execution done
+[2023-03-24:20:04:51] | INFO | query: [ROLLBACK]
+[2023-03-24:20:04:51] | INFO | query execution done
+[2023-03-24:20:04:51] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:20:04:51] | INFO | query execution done
+[2023-03-24:20:04:51] | INFO | query: [ROLLBACK]
+[2023-03-24:20:04:51] | INFO | query execution done
+[2023-03-24:20:04:51] | INFO | query: [ROLLBACK]
+[2023-03-24:20:04:51] | INFO | query execution done
+[2023-03-24:20:04:51] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:20:04:55] | INFO | query execution done
+[2023-03-24:20:04:57] | INFO | query: [ROLLBACK]
+[2023-03-24:20:04:57] | INFO | query execution done
+[2023-03-24:20:13:08] | INFO | query: [ROLLBACK]
+[2023-03-24:20:13:10] | INFO | query execution done
+[2023-03-24:20:13:10] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-24:20:13:10] | INFO | query execution done
+[2023-03-24:20:13:10] | INFO | query: [ROLLBACK]
+[2023-03-24:20:13:10] | INFO | query execution done
+[2023-03-24:20:13:10] | INFO | query: [ROLLBACK]
+[2023-03-24:20:13:10] | INFO | query execution done
+[2023-03-24:20:13:10] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-24:20:13:11] | INFO | query execution done
+[2023-03-24:20:13:13] | INFO | query: [ROLLBACK]
+[2023-03-24:20:13:13] | INFO | query execution done
+[2023-03-24:20:15:54] | INFO | query: [ROLLBACK]
+[2023-03-24:20:15:55] | INFO | query execution done
+[2023-03-24:20:15:55] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-24:20:15:55] | INFO | query execution done
+[2023-03-24:20:15:55] | INFO | query: [ROLLBACK]
+[2023-03-24:20:15:55] | INFO | query execution done
+[2023-03-24:20:15:55] | INFO | query: [ROLLBACK]
+[2023-03-24:20:15:55] | INFO | query execution done
+[2023-03-24:20:15:55] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-24:20:15:56] | INFO | query execution done
+[2023-03-24:20:15:56] | INFO | query: [ROLLBACK]
+[2023-03-24:20:15:56] | INFO | query execution done
+[2023-03-24:20:16:21] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:21] | INFO | query execution done
+[2023-03-24:20:16:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:20:16:21] | INFO | query execution done
+[2023-03-24:20:16:21] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:21] | INFO | query execution done
+[2023-03-24:20:16:21] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:21] | INFO | query execution done
+[2023-03-24:20:16:21] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:20:16:24] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:27] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:27] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-24:20:16:27] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:27] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:27] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-24:20:16:27] | INFO | query execution done
+[2023-03-24:20:16:27] | INFO | query: [ROLLBACK]
+[2023-03-24:20:16:28] | INFO | query execution done
+[2023-03-24:20:17:29] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:30] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-24:20:17:30] | INFO | query execution done
+[2023-03-24:20:17:31] | INFO | query: [ROLLBACK]
+[2023-03-24:20:17:31] | INFO | query execution done
+[2023-03-24:20:25:02] | INFO | query: [ROLLBACK]
+[2023-03-24:20:25:03] | INFO | query execution done
+[2023-03-24:20:25:03] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-24:20:25:03] | INFO | query execution done
+[2023-03-24:20:25:03] | INFO | query: [ROLLBACK]
+[2023-03-24:20:25:03] | INFO | query execution done
+[2023-03-24:20:25:03] | INFO | query: [ROLLBACK]
+[2023-03-24:20:25:03] | INFO | query execution done
+[2023-03-24:20:25:03] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-24:20:25:04] | INFO | query execution done
+[2023-03-24:20:25:04] | INFO | query: [ROLLBACK]
+[2023-03-24:20:25:04] | INFO | query execution done
+[2023-03-24:21:29:58] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-24:21:29:58] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-24:21:29:58] | INFO | Setting use_openssl_only mode to False
+[2023-03-24:21:29:59] | INFO | query: [select current_database(), current_schema();]
+[2023-03-24:21:29:59] | INFO | query execution done
+[2023-03-24:21:29:59] | INFO | query: [ROLLBACK]
+[2023-03-24:21:29:59] | INFO | query execution done
+[2023-03-24:21:29:59] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:00] | INFO | query execution done
+[2023-03-24:21:30:00] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:21:30:00] | INFO | query execution done
+[2023-03-24:21:30:00] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:00] | INFO | query execution done
+[2023-03-24:21:30:00] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:00] | INFO | query execution done
+[2023-03-24:21:30:00] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:21:30:01] | INFO | query execution done
+[2023-03-24:21:30:03] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:03] | INFO | query execution done
+[2023-03-24:21:30:33] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:33] | INFO | query execution done
+[2023-03-24:21:30:33] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:21:30:33] | INFO | query execution done
+[2023-03-24:21:30:33] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:33] | INFO | query execution done
+[2023-03-24:21:30:33] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:33] | INFO | query execution done
+[2023-03-24:21:30:33] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:21:30:35] | INFO | query execution done
+[2023-03-24:21:30:39] | INFO | query: [ROLLBACK]
+[2023-03-24:21:30:40] | INFO | query execution done
+[2023-03-24:21:47:32] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-24:21:47:32] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-24:21:47:32] | INFO | Setting use_openssl_only mode to False
+[2023-03-24:21:47:34] | INFO | query: [select current_database(), current_schema();]
+[2023-03-24:21:47:34] | INFO | query execution done
+[2023-03-24:21:47:34] | INFO | query: [ROLLBACK]
+[2023-03-24:21:47:34] | INFO | query execution done
+[2023-03-24:21:47:34] | INFO | query: [ROLLBACK]
+[2023-03-24:21:47:34] | INFO | query execution done
+[2023-03-24:21:47:34] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:21:47:34] | INFO | query execution done
+[2023-03-24:21:47:34] | INFO | query: [ROLLBACK]
+[2023-03-24:21:47:34] | INFO | query execution done
+[2023-03-24:21:47:34] | INFO | query: [ROLLBACK]
+[2023-03-24:21:47:34] | INFO | query execution done
+[2023-03-24:21:47:34] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:21:47:35] | INFO | query execution done
+[2023-03-24:21:47:38] | INFO | query: [ROLLBACK]
+[2023-03-24:21:47:38] | INFO | query execution done
+[2023-03-24:22:07:39] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-24:22:07:39] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-24:22:07:39] | INFO | Setting use_openssl_only mode to False
+[2023-03-24:22:07:41] | INFO | query: [select current_database(), current_schema();]
+[2023-03-24:22:07:41] | INFO | query execution done
+[2023-03-24:22:07:41] | INFO | query: [ROLLBACK]
+[2023-03-24:22:07:42] | INFO | query execution done
+[2023-03-24:22:07:42] | INFO | query: [ROLLBACK]
+[2023-03-24:22:07:42] | INFO | query execution done
+[2023-03-24:22:07:42] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:22:07:42] | INFO | query execution done
+[2023-03-24:22:07:42] | INFO | query: [ROLLBACK]
+[2023-03-24:22:07:42] | INFO | query execution done
+[2023-03-24:22:07:42] | INFO | query: [ROLLBACK]
+[2023-03-24:22:07:42] | INFO | query execution done
+[2023-03-24:22:07:42] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:22:07:46] | INFO | query execution done
+[2023-03-24:22:07:48] | INFO | query: [ROLLBACK]
+[2023-03-24:22:07:48] | INFO | query execution done
+[2023-03-24:22:10:20] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-24:22:10:20] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-24:22:10:20] | INFO | Setting use_openssl_only mode to False
+[2023-03-24:22:10:21] | INFO | query: [select current_database(), current_schema();]
+[2023-03-24:22:10:21] | INFO | query execution done
+[2023-03-24:22:10:21] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:21] | INFO | query execution done
+[2023-03-24:22:10:21] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:21] | INFO | query execution done
+[2023-03-24:22:10:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:22:10:21] | INFO | query execution done
+[2023-03-24:22:10:21] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:21] | INFO | query execution done
+[2023-03-24:22:10:21] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:22] | INFO | query execution done
+[2023-03-24:22:10:22] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:22:10:23] | INFO | query execution done
+[2023-03-24:22:10:26] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:26] | INFO | query execution done
+[2023-03-24:22:10:27] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:27] | INFO | query execution done
+[2023-03-24:22:10:27] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-24:22:10:27] | INFO | query execution done
+[2023-03-24:22:10:27] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:27] | INFO | query execution done
+[2023-03-24:22:10:27] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:27] | INFO | query execution done
+[2023-03-24:22:10:27] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-24:22:10:28] | INFO | query execution done
+[2023-03-24:22:10:28] | INFO | query: [ROLLBACK]
+[2023-03-24:22:10:28] | INFO | query execution done
+[2023-03-24:22:12:50] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-24:22:12:50] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-24:22:12:50] | INFO | Setting use_openssl_only mode to False
+[2023-03-24:22:12:51] | INFO | query: [select current_database(), current_schema();]
+[2023-03-24:22:12:51] | INFO | query execution done
+[2023-03-24:22:12:51] | INFO | query: [ROLLBACK]
+[2023-03-24:22:12:51] | INFO | query execution done
+[2023-03-24:22:12:51] | INFO | query: [ROLLBACK]
+[2023-03-24:22:12:51] | INFO | query execution done
+[2023-03-24:22:12:51] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-24:22:12:51] | INFO | query execution done
+[2023-03-24:22:12:51] | INFO | query: [ROLLBACK]
+[2023-03-24:22:12:51] | INFO | query execution done
+[2023-03-24:22:12:51] | INFO | query: [ROLLBACK]
+[2023-03-24:22:12:51] | INFO | query execution done
+[2023-03-24:22:12:51] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-24:22:12:53] | INFO | query execution done
+[2023-03-24:22:12:55] | INFO | query: [ROLLBACK]
+[2023-03-24:22:12:55] | INFO | query execution done
+[2023-03-24:22:13:24] | INFO | query: [ROLLBACK]
+[2023-03-24:22:13:24] | INFO | query execution done
+[2023-03-24:22:13:24] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-24:22:13:24] | INFO | query execution done
+[2023-03-24:22:13:24] | INFO | query: [ROLLBACK]
+[2023-03-24:22:13:24] | INFO | query execution done
+[2023-03-24:22:13:24] | INFO | query: [ROLLBACK]
+[2023-03-24:22:13:24] | INFO | query execution done
+[2023-03-24:22:13:24] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-24:22:13:24] | INFO | query execution done
+[2023-03-24:22:13:25] | INFO | query: [ROLLBACK]
+[2023-03-24:22:13:25] | INFO | query execution done
+[2023-03-27:14:40:58] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:14:40:58] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:14:40:58] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:14:41:00] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:14:41:00] | INFO | query execution done
+[2023-03-27:14:41:00] | INFO | query: [ROLLBACK]
+[2023-03-27:14:41:00] | INFO | query execution done
+[2023-03-27:14:41:00] | INFO | query: [ROLLBACK]
+[2023-03-27:14:41:00] | INFO | query execution done
+[2023-03-27:14:41:00] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-27:14:41:00] | INFO | query execution done
+[2023-03-27:14:41:01] | INFO | query: [ROLLBACK]
+[2023-03-27:14:41:01] | INFO | query execution done
+[2023-03-27:14:41:01] | INFO | query: [ROLLBACK]
+[2023-03-27:14:41:01] | INFO | query execution done
+[2023-03-27:14:41:01] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-27:14:41:05] | INFO | query execution done
+[2023-03-27:14:41:06] | INFO | query: [ROLLBACK]
+[2023-03-27:14:41:06] | INFO | query execution done
+[2023-03-27:14:43:34] | INFO | query: [ROLLBACK]
+[2023-03-27:14:43:35] | INFO | query execution done
+[2023-03-27:14:43:35] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-27:14:43:35] | INFO | query execution done
+[2023-03-27:14:43:35] | INFO | query: [ROLLBACK]
+[2023-03-27:14:43:35] | INFO | query execution done
+[2023-03-27:14:43:35] | INFO | query: [ROLLBACK]
+[2023-03-27:14:43:35] | INFO | query execution done
+[2023-03-27:14:43:35] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-27:14:43:36] | INFO | query execution done
+[2023-03-27:14:43:36] | INFO | query: [ROLLBACK]
+[2023-03-27:14:43:37] | INFO | query execution done
+[2023-03-27:14:49:12] | INFO | query: [ROLLBACK]
+[2023-03-27:14:49:12] | INFO | query execution done
+[2023-03-27:14:49:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:14:49:12] | INFO | query execution done
+[2023-03-27:14:49:12] | INFO | query: [ROLLBACK]
+[2023-03-27:14:49:12] | INFO | query execution done
+[2023-03-27:14:49:12] | INFO | query: [ROLLBACK]
+[2023-03-27:14:49:12] | INFO | query execution done
+[2023-03-27:14:49:12] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:14:49:13] | INFO | query execution done
+[2023-03-27:14:49:13] | INFO | query: [ROLLBACK]
+[2023-03-27:14:49:13] | INFO | query execution done
+[2023-03-27:14:50:14] | INFO | query: [ROLLBACK]
+[2023-03-27:14:50:14] | INFO | query execution done
+[2023-03-27:14:50:14] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-27:14:50:14] | INFO | query execution done
+[2023-03-27:14:50:14] | INFO | query: [ROLLBACK]
+[2023-03-27:14:50:14] | INFO | query execution done
+[2023-03-27:14:50:14] | INFO | query: [ROLLBACK]
+[2023-03-27:14:50:14] | INFO | query execution done
+[2023-03-27:14:50:14] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-27:14:50:14] | INFO | query execution done
+[2023-03-27:14:50:14] | INFO | query: [ROLLBACK]
+[2023-03-27:14:50:15] | INFO | query execution done
+[2023-03-27:14:50:59] | INFO | query: [ROLLBACK]
+[2023-03-27:14:51:00] | INFO | query execution done
+[2023-03-27:14:51:00] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-27:14:51:00] | INFO | query execution done
+[2023-03-27:14:51:00] | INFO | query: [ROLLBACK]
+[2023-03-27:14:51:00] | INFO | query execution done
+[2023-03-27:14:51:00] | INFO | query: [ROLLBACK]
+[2023-03-27:14:51:00] | INFO | query execution done
+[2023-03-27:14:51:00] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-27:14:51:00] | INFO | query execution done
+[2023-03-27:14:51:00] | INFO | query: [ROLLBACK]
+[2023-03-27:14:51:00] | INFO | query execution done
+[2023-03-27:15:17:19] | INFO | query: [ROLLBACK]
+[2023-03-27:15:17:19] | INFO | query execution done
+[2023-03-27:15:17:19] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-27:15:17:19] | INFO | query execution done
+[2023-03-27:15:17:19] | INFO | query: [ROLLBACK]
+[2023-03-27:15:17:19] | INFO | query execution done
+[2023-03-27:15:17:19] | INFO | query: [ROLLBACK]
+[2023-03-27:15:17:19] | INFO | query execution done
+[2023-03-27:15:17:19] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-27:15:17:20] | INFO | query execution done
+[2023-03-27:15:17:20] | INFO | query: [ROLLBACK]
+[2023-03-27:15:17:20] | INFO | query execution done
+[2023-03-27:16:28:36] | INFO | query: [delete from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-27'...]
+[2023-03-27:16:28:37] | INFO | query execution done
+[2023-03-27:16:28:37] | INFO | query: [COMMIT]
+[2023-03-27:16:28:37] | INFO | query execution done
+[2023-03-27:16:28:37] | INFO | query: [ROLLBACK]
+[2023-03-27:16:28:37] | INFO | query execution done
+[2023-03-27:16:28:39] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:16:28:39] | INFO | query: [ROLLBACK]
+[2023-03-27:16:28:39] | INFO | query execution done
+[2023-03-27:16:28:39] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:16:28:39] | INFO | query execution done
+[2023-03-27:16:28:39] | INFO | query: [ROLLBACK]
+[2023-03-27:16:28:39] | INFO | query execution done
+[2023-03-27:16:28:51] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:16:28:57] | INFO | query execution done
+[2023-03-27:16:28:57] | INFO | query: [ROLLBACK]
+[2023-03-27:16:28:57] | INFO | query execution done
+[2023-03-27:16:28:57] | INFO | query: [ROLLBACK]
+[2023-03-27:16:28:57] | INFO | query execution done
+[2023-03-27:16:30:10] | INFO | query: [delete from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-27'...]
+[2023-03-27:16:30:11] | INFO | query execution done
+[2023-03-27:16:30:11] | INFO | query: [COMMIT]
+[2023-03-27:16:30:11] | INFO | query execution done
+[2023-03-27:16:30:11] | INFO | query: [ROLLBACK]
+[2023-03-27:16:30:11] | INFO | query execution done
+[2023-03-27:16:32:21] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:16:32:21] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:16:32:22] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:16:32:24] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:16:32:24] | INFO | query execution done
+[2023-03-27:16:32:24] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:24] | INFO | query execution done
+[2023-03-27:16:32:24] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:24] | INFO | query execution done
+[2023-03-27:16:32:24] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-27:16:32:25] | INFO | query execution done
+[2023-03-27:16:32:25] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:25] | INFO | query execution done
+[2023-03-27:16:32:25] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:25] | INFO | query execution done
+[2023-03-27:16:32:25] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-27:16:32:26] | INFO | query execution done
+[2023-03-27:16:32:31] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:31] | INFO | query execution done
+[2023-03-27:16:32:31] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:31] | INFO | query execution done
+[2023-03-27:16:32:31] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-27:16:32:31] | INFO | query execution done
+[2023-03-27:16:32:31] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:31] | INFO | query execution done
+[2023-03-27:16:32:31] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:31] | INFO | query execution done
+[2023-03-27:16:32:31] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-27:16:32:31] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:32] | INFO | query execution done
+[2023-03-27:16:32:32] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:33] | INFO | query execution done
+[2023-03-27:16:32:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:34] | INFO | query execution done
+[2023-03-27:16:32:34] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-27:16:32:34] | INFO | query execution done
+[2023-03-27:16:32:34] | INFO | query: [ROLLBACK]
+[2023-03-27:16:32:34] | INFO | query execution done
+[2023-03-27:16:33:28] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:16:33:28] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:16:33:29] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:16:33:29] | INFO | query execution done
+[2023-03-27:16:33:29] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:29] | INFO | query execution done
+[2023-03-27:16:33:29] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:29] | INFO | query execution done
+[2023-03-27:16:33:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-27:16:33:29] | INFO | query execution done
+[2023-03-27:16:33:29] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:29] | INFO | query execution done
+[2023-03-27:16:33:29] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:29] | INFO | query execution done
+[2023-03-27:16:33:29] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-27:16:33:31] | INFO | query execution done
+[2023-03-27:16:33:34] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:34] | INFO | query execution done
+[2023-03-27:16:33:38] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:38] | INFO | query execution done
+[2023-03-27:16:33:38] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-27:16:33:38] | INFO | query execution done
+[2023-03-27:16:33:38] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:38] | INFO | query execution done
+[2023-03-27:16:33:38] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:38] | INFO | query execution done
+[2023-03-27:16:33:38] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-27:16:33:38] | INFO | query execution done
+[2023-03-27:16:33:38] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:39] | INFO | query execution done
+[2023-03-27:16:33:48] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:48] | INFO | query execution done
+[2023-03-27:16:33:48] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:16:33:48] | INFO | query execution done
+[2023-03-27:16:33:48] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:48] | INFO | query execution done
+[2023-03-27:16:33:48] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:48] | INFO | query execution done
+[2023-03-27:16:33:48] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:16:33:48] | INFO | query execution done
+[2023-03-27:16:33:48] | INFO | query: [ROLLBACK]
+[2023-03-27:16:33:48] | INFO | query execution done
+[2023-03-27:16:34:03] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:03] | INFO | query execution done
+[2023-03-27:16:34:03] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-27:16:34:04] | INFO | query execution done
+[2023-03-27:16:34:04] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:04] | INFO | query execution done
+[2023-03-27:16:34:04] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:04] | INFO | query execution done
+[2023-03-27:16:34:04] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-27:16:34:04] | INFO | query execution done
+[2023-03-27:16:34:04] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:04] | INFO | query execution done
+[2023-03-27:16:34:13] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:13] | INFO | query execution done
+[2023-03-27:16:34:13] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-27:16:34:13] | INFO | query execution done
+[2023-03-27:16:34:13] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:13] | INFO | query execution done
+[2023-03-27:16:34:13] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:14] | INFO | query execution done
+[2023-03-27:16:34:14] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-27:16:34:14] | INFO | query execution done
+[2023-03-27:16:34:14] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:14] | INFO | query execution done
+[2023-03-27:16:34:14] | INFO | closed
+[2023-03-27:16:34:14] | INFO | No async queries seem to be running, deleting session
+[2023-03-27:16:34:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:33] | INFO | query execution done
+[2023-03-27:16:34:33] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-27:16:34:33] | INFO | query execution done
+[2023-03-27:16:34:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:33] | INFO | query execution done
+[2023-03-27:16:34:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:33] | INFO | query execution done
+[2023-03-27:16:34:33] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-27:16:34:33] | INFO | query execution done
+[2023-03-27:16:34:33] | INFO | query: [ROLLBACK]
+[2023-03-27:16:34:33] | INFO | query execution done
+[2023-03-27:17:37:29] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:17:37:29] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:17:37:29] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:17:37:29] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:17:37:29] | INFO | query execution done
+[2023-03-27:17:37:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:37:29] | INFO | query execution done
+[2023-03-27:17:37:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:37:29] | INFO | query execution done
+[2023-03-27:17:37:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-27:17:37:30] | INFO | query execution done
+[2023-03-27:17:37:30] | INFO | query: [ROLLBACK]
+[2023-03-27:17:37:30] | INFO | query execution done
+[2023-03-27:17:37:30] | INFO | query: [ROLLBACK]
+[2023-03-27:17:37:30] | INFO | query execution done
+[2023-03-27:17:37:30] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-27:17:37:34] | INFO | query execution done
+[2023-03-27:17:37:36] | INFO | query: [ROLLBACK]
+[2023-03-27:17:37:36] | INFO | query execution done
+[2023-03-27:17:38:27] | INFO | query: [ROLLBACK]
+[2023-03-27:17:38:27] | INFO | query execution done
+[2023-03-27:17:38:27] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-27:17:38:27] | INFO | query execution done
+[2023-03-27:17:38:27] | INFO | query: [ROLLBACK]
+[2023-03-27:17:38:27] | INFO | query execution done
+[2023-03-27:17:38:27] | INFO | query: [ROLLBACK]
+[2023-03-27:17:38:27] | INFO | query execution done
+[2023-03-27:17:38:27] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-27:17:38:28] | INFO | query execution done
+[2023-03-27:17:38:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:38:29] | INFO | query execution done
+[2023-03-27:17:42:20] | INFO | query: [ROLLBACK]
+[2023-03-27:17:42:21] | INFO | query execution done
+[2023-03-27:17:42:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:17:42:21] | INFO | query execution done
+[2023-03-27:17:42:21] | INFO | query: [ROLLBACK]
+[2023-03-27:17:42:21] | INFO | query execution done
+[2023-03-27:17:42:21] | INFO | query: [ROLLBACK]
+[2023-03-27:17:42:21] | INFO | query execution done
+[2023-03-27:17:42:21] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:17:42:21] | INFO | query execution done
+[2023-03-27:17:42:21] | INFO | query: [ROLLBACK]
+[2023-03-27:17:42:21] | INFO | query execution done
+[2023-03-27:17:44:38] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:38] | INFO | query execution done
+[2023-03-27:17:44:38] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-27:17:44:38] | INFO | query execution done
+[2023-03-27:17:44:38] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:39] | INFO | query execution done
+[2023-03-27:17:44:39] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:39] | INFO | query execution done
+[2023-03-27:17:44:39] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-27:17:44:39] | INFO | query execution done
+[2023-03-27:17:44:39] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:39] | INFO | query execution done
+[2023-03-27:17:44:53] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:53] | INFO | query execution done
+[2023-03-27:17:44:53] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-27:17:44:53] | INFO | query execution done
+[2023-03-27:17:44:53] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:53] | INFO | query execution done
+[2023-03-27:17:44:53] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:53] | INFO | query execution done
+[2023-03-27:17:44:53] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-27:17:44:54] | INFO | query execution done
+[2023-03-27:17:44:54] | INFO | query: [ROLLBACK]
+[2023-03-27:17:44:54] | INFO | query execution done
+[2023-03-27:17:53:28] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:17:53:28] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:17:53:28] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:17:53:29] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:17:53:29] | INFO | query execution done
+[2023-03-27:17:53:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:53:29] | INFO | query execution done
+[2023-03-27:17:53:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:53:29] | INFO | query execution done
+[2023-03-27:17:53:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-27:17:53:29] | INFO | query execution done
+[2023-03-27:17:53:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:53:29] | INFO | query execution done
+[2023-03-27:17:53:29] | INFO | query: [ROLLBACK]
+[2023-03-27:17:53:29] | INFO | query execution done
+[2023-03-27:17:53:29] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-27:17:53:31] | INFO | query execution done
+[2023-03-27:17:53:33] | INFO | query: [ROLLBACK]
+[2023-03-27:17:53:33] | INFO | query execution done
+[2023-03-27:17:54:44] | INFO | query: [ROLLBACK]
+[2023-03-27:17:54:45] | INFO | query execution done
+[2023-03-27:17:54:45] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-27:17:54:45] | INFO | query execution done
+[2023-03-27:17:54:45] | INFO | query: [ROLLBACK]
+[2023-03-27:17:54:45] | INFO | query execution done
+[2023-03-27:17:54:45] | INFO | query: [ROLLBACK]
+[2023-03-27:17:54:45] | INFO | query execution done
+[2023-03-27:17:54:45] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-27:17:54:45] | INFO | query execution done
+[2023-03-27:17:54:46] | INFO | query: [ROLLBACK]
+[2023-03-27:17:54:47] | INFO | query execution done
+[2023-03-27:17:55:26] | INFO | query: [ROLLBACK]
+[2023-03-27:17:55:26] | INFO | query execution done
+[2023-03-27:17:55:26] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:17:55:26] | INFO | query execution done
+[2023-03-27:17:55:26] | INFO | query: [ROLLBACK]
+[2023-03-27:17:55:26] | INFO | query execution done
+[2023-03-27:17:55:26] | INFO | query: [ROLLBACK]
+[2023-03-27:17:55:26] | INFO | query execution done
+[2023-03-27:17:55:26] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:17:55:26] | INFO | query execution done
+[2023-03-27:17:55:26] | INFO | query: [ROLLBACK]
+[2023-03-27:17:55:26] | INFO | query execution done
+[2023-03-27:17:56:15] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:15] | INFO | query execution done
+[2023-03-27:17:56:15] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfpa".ddrpf.dept_core_tr...]
+[2023-03-27:17:56:15] | INFO | query execution done
+[2023-03-27:17:56:15] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:15] | INFO | query execution done
+[2023-03-27:17:56:15] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:15] | INFO | query execution done
+[2023-03-27:17:56:15] | INFO | query: [select * from ksfpa.ddrpf.dept_core_trend]
+[2023-03-27:17:56:15] | INFO | query execution done
+[2023-03-27:17:56:15] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:15] | INFO | query execution done
+[2023-03-27:17:56:55] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:55] | INFO | query execution done
+[2023-03-27:17:56:55] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select min(DAY_DATE) as ny_start_date, ...]
+[2023-03-27:17:56:55] | INFO | query execution done
+[2023-03-27:17:56:55] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:55] | INFO | query execution done
+[2023-03-27:17:56:55] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:55] | INFO | query execution done
+[2023-03-27:17:56:55] | INFO | query: [select min(DAY_DATE) as ny_start_date, max(DAY_DATE) as ny_end_date from KSFPA.M...]
+[2023-03-27:17:56:55] | INFO | query execution done
+[2023-03-27:17:56:55] | INFO | query: [ROLLBACK]
+[2023-03-27:17:56:55] | INFO | query execution done
+[2023-03-27:18:00:10] | INFO | query: [ROLLBACK]
+[2023-03-27:18:00:11] | INFO | query execution done
+[2023-03-27:18:00:11] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-03-27:18:00:11] | INFO | query execution done
+[2023-03-27:18:00:11] | INFO | query: [ROLLBACK]
+[2023-03-27:18:00:11] | INFO | query execution done
+[2023-03-27:18:00:11] | INFO | query: [ROLLBACK]
+[2023-03-27:18:00:11] | INFO | query execution done
+[2023-03-27:18:00:11] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-03-27:18:00:11] | INFO | query execution done
+[2023-03-27:18:00:12] | INFO | query: [ROLLBACK]
+[2023-03-27:18:00:12] | INFO | query execution done
+[2023-03-27:18:06:52] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:18:06:52] | INFO | query: [ROLLBACK]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:53] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:53] | INFO | query: [ROLLBACK]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:53] | INFO | query: [ROLLBACK]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:53] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:53] | INFO | query: [COMMIT]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:53] | INFO | query: [ROLLBACK]
+[2023-03-27:18:06:53] | INFO | query execution done
+[2023-03-27:18:06:58] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:18:07:04] | INFO | query execution done
+[2023-03-27:18:07:04] | INFO | query: [ROLLBACK]
+[2023-03-27:18:07:04] | INFO | query execution done
+[2023-03-27:18:07:04] | INFO | query: [ROLLBACK]
+[2023-03-27:18:07:04] | INFO | query execution done
+[2023-03-27:18:21:20] | INFO | Inserting into table: sales_forecast_kafe
+[2023-03-27:18:21:20] | INFO | query: [ROLLBACK]
+[2023-03-27:18:21:20] | INFO | query execution done
+[2023-03-27:18:21:20] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".sales_forecast_kafe]
+[2023-03-27:18:21:20] | INFO | query execution done
+[2023-03-27:18:21:20] | INFO | query: [ROLLBACK]
+[2023-03-27:18:21:21] | INFO | query execution done
+[2023-03-27:18:21:21] | INFO | query: [ROLLBACK]
+[2023-03-27:18:21:21] | INFO | query execution done
+[2023-03-27:18:21:21] | INFO | query: [CREATE TABLE "DDRPF".sales_forecast_kafe ( option_sales_fcst TEXT, primary_colou...]
+[2023-03-27:18:21:21] | INFO | query execution done
+[2023-03-27:18:21:21] | INFO | query: [COMMIT]
+[2023-03-27:18:21:21] | INFO | query execution done
+[2023-03-27:18:21:21] | INFO | query: [ROLLBACK]
+[2023-03-27:18:21:21] | INFO | query execution done
+[2023-03-27:18:21:26] | INFO | query: [INSERT INTO "DDRPF".sales_forecast_kafe (option_sales_fcst, primary_colour, "NY ...]
+[2023-03-27:18:21:31] | INFO | query execution done
+[2023-03-27:18:21:34] | INFO | query: [INSERT INTO "DDRPF".sales_forecast_kafe (option_sales_fcst, primary_colour, "NY ...]
+[2023-03-27:18:21:40] | INFO | query execution done
+[2023-03-27:18:21:43] | INFO | query: [INSERT INTO "DDRPF".sales_forecast_kafe (option_sales_fcst, primary_colour, "NY ...]
+[2023-03-27:18:21:45] | INFO | query execution done
+[2023-03-27:18:21:45] | INFO | query: [COMMIT]
+[2023-03-27:18:21:46] | INFO | query execution done
+[2023-03-27:18:21:46] | INFO | query: [ROLLBACK]
+[2023-03-27:18:21:46] | INFO | query execution done
+[2023-03-27:18:24:06] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:18:24:06] | INFO | query: [ROLLBACK]
+[2023-03-27:18:24:06] | INFO | query execution done
+[2023-03-27:18:24:06] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:18:24:06] | INFO | query execution done
+[2023-03-27:18:24:06] | INFO | query: [ROLLBACK]
+[2023-03-27:18:24:06] | INFO | query execution done
+[2023-03-27:18:24:06] | INFO | query: [ROLLBACK]
+[2023-03-27:18:24:06] | INFO | query execution done
+[2023-03-27:18:24:06] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:18:24:06] | INFO | query execution done
+[2023-03-27:18:24:06] | INFO | query: [COMMIT]
+[2023-03-27:18:24:07] | INFO | query execution done
+[2023-03-27:18:24:07] | INFO | query: [ROLLBACK]
+[2023-03-27:18:24:07] | INFO | query execution done
+[2023-03-27:18:24:13] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:18:24:19] | INFO | query execution done
+[2023-03-27:18:24:19] | INFO | query: [ROLLBACK]
+[2023-03-27:18:24:19] | INFO | query execution done
+[2023-03-27:18:24:19] | INFO | query: [ROLLBACK]
+[2023-03-27:18:24:19] | INFO | query execution done
+[2023-03-27:18:34:03] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:18:34:03] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:18:34:03] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:18:34:03] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:18:34:03] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:18:34:03] | INFO | query execution done
+[2023-03-27:18:34:03] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:03] | INFO | query execution done
+[2023-03-27:18:34:03] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:03] | INFO | query execution done
+[2023-03-27:18:34:03] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:18:34:03] | INFO | query execution done
+[2023-03-27:18:34:04] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:04] | INFO | query execution done
+[2023-03-27:18:34:04] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:04] | INFO | query execution done
+[2023-03-27:18:34:04] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:18:34:04] | INFO | query execution done
+[2023-03-27:18:34:04] | INFO | query: [COMMIT]
+[2023-03-27:18:34:04] | INFO | query execution done
+[2023-03-27:18:34:04] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:04] | INFO | query execution done
+[2023-03-27:18:34:09] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:18:34:14] | INFO | query execution done
+[2023-03-27:18:34:14] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:14] | INFO | query execution done
+[2023-03-27:18:34:14] | INFO | query: [ROLLBACK]
+[2023-03-27:18:34:14] | INFO | query execution done
+[2023-03-27:19:40:09] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:19:40:09] | INFO | query: [ROLLBACK]
+[2023-03-27:19:40:10] | INFO | query execution done
+[2023-03-27:19:40:10] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:19:40:10] | INFO | query execution done
+[2023-03-27:19:40:10] | INFO | query: [ROLLBACK]
+[2023-03-27:19:40:10] | INFO | query execution done
+[2023-03-27:19:40:10] | INFO | query: [ROLLBACK]
+[2023-03-27:19:40:10] | INFO | query execution done
+[2023-03-27:19:40:10] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:19:40:10] | INFO | query execution done
+[2023-03-27:19:40:10] | INFO | query: [COMMIT]
+[2023-03-27:19:40:11] | INFO | query execution done
+[2023-03-27:19:40:11] | INFO | query: [ROLLBACK]
+[2023-03-27:19:40:11] | INFO | query execution done
+[2023-03-27:19:40:19] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:19:40:25] | INFO | query execution done
+[2023-03-27:19:40:25] | INFO | query: [ROLLBACK]
+[2023-03-27:19:40:25] | INFO | query execution done
+[2023-03-27:19:40:25] | INFO | query: [ROLLBACK]
+[2023-03-27:19:40:25] | INFO | query execution done
+[2023-03-27:19:46:11] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:19:46:11] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:19:46:11] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:19:46:11] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:19:46:12] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [COMMIT]
+[2023-03-27:19:46:12] | INFO | query execution done
+[2023-03-27:19:46:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:13] | INFO | query execution done
+[2023-03-27:19:46:17] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:19:46:24] | INFO | query execution done
+[2023-03-27:19:46:24] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:24] | INFO | query execution done
+[2023-03-27:19:46:24] | INFO | query: [ROLLBACK]
+[2023-03-27:19:46:24] | INFO | query execution done
+[2023-03-27:19:49:57] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:19:49:57] | INFO | query: [ROLLBACK]
+[2023-03-27:19:49:57] | INFO | query execution done
+[2023-03-27:19:49:57] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:19:49:57] | INFO | query execution done
+[2023-03-27:19:49:57] | INFO | query: [ROLLBACK]
+[2023-03-27:19:49:57] | INFO | query execution done
+[2023-03-27:19:49:57] | INFO | query: [ROLLBACK]
+[2023-03-27:19:49:57] | INFO | query execution done
+[2023-03-27:19:49:57] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:19:49:58] | INFO | query execution done
+[2023-03-27:19:49:58] | INFO | query: [COMMIT]
+[2023-03-27:19:49:58] | INFO | query execution done
+[2023-03-27:19:49:58] | INFO | query: [ROLLBACK]
+[2023-03-27:19:49:58] | INFO | query execution done
+[2023-03-27:19:50:06] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:19:50:12] | INFO | query execution done
+[2023-03-27:19:50:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:50:12] | INFO | query execution done
+[2023-03-27:19:50:12] | INFO | query: [ROLLBACK]
+[2023-03-27:19:50:12] | INFO | query execution done
+[2023-03-27:19:54:00] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:19:54:00] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:19:54:00] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:19:54:00] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:19:54:00] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:19:54:00] | INFO | query execution done
+[2023-03-27:19:54:00] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:00] | INFO | query execution done
+[2023-03-27:19:54:00] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:00] | INFO | query execution done
+[2023-03-27:19:54:00] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:19:54:01] | INFO | query execution done
+[2023-03-27:19:54:01] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:01] | INFO | query execution done
+[2023-03-27:19:54:01] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:01] | INFO | query execution done
+[2023-03-27:19:54:01] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:19:54:01] | INFO | query execution done
+[2023-03-27:19:54:01] | INFO | query: [COMMIT]
+[2023-03-27:19:54:01] | INFO | query execution done
+[2023-03-27:19:54:01] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:01] | INFO | query execution done
+[2023-03-27:19:54:06] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:19:54:11] | INFO | query execution done
+[2023-03-27:19:54:11] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:11] | INFO | query execution done
+[2023-03-27:19:54:11] | INFO | query: [ROLLBACK]
+[2023-03-27:19:54:11] | INFO | query execution done
+[2023-03-27:20:03:44] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:20:03:44] | INFO | query: [ROLLBACK]
+[2023-03-27:20:03:45] | INFO | query execution done
+[2023-03-27:20:03:45] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:20:03:45] | INFO | query execution done
+[2023-03-27:20:03:45] | INFO | query: [ROLLBACK]
+[2023-03-27:20:03:45] | INFO | query execution done
+[2023-03-27:20:03:45] | INFO | query: [ROLLBACK]
+[2023-03-27:20:03:45] | INFO | query execution done
+[2023-03-27:20:03:45] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:20:03:45] | INFO | query execution done
+[2023-03-27:20:03:45] | INFO | query: [COMMIT]
+[2023-03-27:20:03:46] | INFO | query execution done
+[2023-03-27:20:03:46] | INFO | query: [ROLLBACK]
+[2023-03-27:20:03:46] | INFO | query execution done
+[2023-03-27:20:03:51] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:20:03:57] | INFO | query execution done
+[2023-03-27:20:03:57] | INFO | query: [ROLLBACK]
+[2023-03-27:20:03:57] | INFO | query execution done
+[2023-03-27:20:03:57] | INFO | query: [ROLLBACK]
+[2023-03-27:20:03:57] | INFO | query execution done
+[2023-03-27:20:30:50] | INFO | Inserting into table: prepped_input_data_options
+[2023-03-27:20:30:50] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-03-27:20:30:50] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-03-27:20:30:50] | INFO | Setting use_openssl_only mode to False
+[2023-03-27:20:30:51] | INFO | query: [select current_database(), current_schema();]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [ROLLBACK]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [ROLLBACK]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".prepped_input_data_options]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [ROLLBACK]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [ROLLBACK]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [CREATE TABLE "DDRPF".prepped_input_data_options ( "NY Style ID" INTEGER, "NY Kma...]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [COMMIT]
+[2023-03-27:20:30:51] | INFO | query execution done
+[2023-03-27:20:30:51] | INFO | query: [ROLLBACK]
+[2023-03-27:20:30:52] | INFO | query execution done
+[2023-03-27:20:30:59] | INFO | query: [INSERT INTO "DDRPF".prepped_input_data_options ("NY Style ID", "NY Kmart Style N...]
+[2023-03-27:20:31:05] | INFO | query execution done
+[2023-03-27:20:31:05] | INFO | query: [COMMIT]
+[2023-03-27:20:31:06] | INFO | query execution done
+[2023-03-27:20:31:06] | INFO | query: [ROLLBACK]
+[2023-03-27:20:31:06] | INFO | query execution done
+[2023-03-27:20:34:40] | INFO | query: [ROLLBACK]
+[2023-03-27:20:34:41] | INFO | query execution done
+[2023-03-27:20:34:41] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-03-27:20:34:42] | INFO | query execution done
+[2023-03-27:20:34:42] | INFO | query: [ROLLBACK]
+[2023-03-27:20:34:42] | INFO | query execution done
+[2023-03-27:20:34:42] | INFO | query: [ROLLBACK]
+[2023-03-27:20:34:42] | INFO | query execution done
+[2023-03-27:20:34:42] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-03-27:20:34:47] | INFO | query execution done
+[2023-03-27:20:34:50] | INFO | query: [ROLLBACK]
+[2023-03-27:20:34:51] | INFO | query execution done
+[2023-03-27:20:52:44] | INFO | query: [ROLLBACK]
+[2023-03-27:20:52:44] | INFO | query execution done
+[2023-03-27:20:52:44] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-03-27:20:52:44] | INFO | query execution done
+[2023-03-27:20:52:44] | INFO | query: [ROLLBACK]
+[2023-03-27:20:52:44] | INFO | query execution done
+[2023-03-27:20:52:44] | INFO | query: [ROLLBACK]
+[2023-03-27:20:52:44] | INFO | query execution done
+[2023-03-27:20:52:44] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-03-27:20:52:45] | INFO | query execution done
+[2023-03-27:20:52:47] | INFO | query: [ROLLBACK]
+[2023-03-27:20:52:47] | INFO | query execution done
+[2023-03-27:20:58:56] | INFO | query: [ROLLBACK]
+[2023-03-27:20:58:57] | INFO | query execution done
+[2023-03-27:20:58:57] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select concat(SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:20:58:57] | INFO | query execution done
+[2023-03-27:20:58:57] | INFO | query: [ROLLBACK]
+[2023-03-27:20:58:57] | INFO | query execution done
+[2023-03-27:20:58:57] | INFO | query: [ROLLBACK]
+[2023-03-27:20:58:57] | INFO | query execution done
+[2023-03-27:20:58:57] | INFO | query: [select concat(SUBSTR(ACCOUNTING_QUARTER_ID, 1, 4),'-Q',SUBSTR(ACCOUNTING_QUARTER...]
+[2023-03-27:20:58:57] | INFO | query execution done
+[2023-03-27:20:58:57] | INFO | query: [ROLLBACK]
+[2023-03-27:20:58:57] | INFO | query execution done
+[2023-04-17:19:29:24] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-17:19:29:24] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-17:19:29:24] | INFO | Setting use_openssl_only mode to False
+[2023-04-17:19:29:25] | INFO | query: [select current_database(), current_schema();]
+[2023-04-17:19:29:25] | INFO | query execution done
+[2023-04-17:19:29:25] | INFO | query: [ROLLBACK]
+[2023-04-17:19:29:25] | INFO | query execution done
+[2023-04-17:19:29:25] | INFO | query: [ROLLBACK]
+[2023-04-17:19:29:25] | INFO | query execution done
+[2023-04-17:19:29:25] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-17:19:29:25] | INFO | query execution done
+[2023-04-17:19:29:25] | INFO | query: [ROLLBACK]
+[2023-04-17:19:29:26] | INFO | query execution done
+[2023-04-17:19:29:26] | INFO | query: [ROLLBACK]
+[2023-04-17:19:29:26] | INFO | query execution done
+[2023-04-17:19:29:26] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-17:19:29:27] | INFO | query execution done
+[2023-04-17:19:29:27] | INFO | query: [ROLLBACK]
+[2023-04-17:19:29:27] | INFO | query execution done
+[2023-04-17:19:30:09] | INFO | query: [ROLLBACK]
+[2023-04-17:19:30:09] | INFO | query execution done
+[2023-04-17:19:30:09] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-17:19:30:10] | INFO | query execution done
+[2023-04-17:19:30:10] | INFO | query: [ROLLBACK]
+[2023-04-17:19:30:10] | INFO | query execution done
+[2023-04-17:19:30:10] | INFO | query: [ROLLBACK]
+[2023-04-17:19:30:10] | INFO | query execution done
+[2023-04-17:19:30:10] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-17:19:30:11] | INFO | query execution done
+[2023-04-17:19:30:12] | INFO | query: [ROLLBACK]
+[2023-04-17:19:30:12] | INFO | query execution done
+[2023-04-20:16:32:38] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-20:16:32:38] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-20:16:32:38] | INFO | Setting use_openssl_only mode to False
+[2023-04-20:16:32:42] | INFO | query: [select current_database(), current_schema();]
+[2023-04-20:16:32:42] | INFO | query execution done
+[2023-04-20:16:32:42] | INFO | query: [ROLLBACK]
+[2023-04-20:16:32:42] | INFO | query execution done
+[2023-04-20:16:32:42] | INFO | query: [ROLLBACK]
+[2023-04-20:16:32:42] | INFO | query execution done
+[2023-04-20:16:32:42] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-20:16:32:43] | INFO | query execution done
+[2023-04-20:16:32:43] | INFO | query: [ROLLBACK]
+[2023-04-20:16:32:43] | INFO | query execution done
+[2023-04-20:16:32:43] | INFO | query: [ROLLBACK]
+[2023-04-20:16:32:43] | INFO | query execution done
+[2023-04-20:16:32:43] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-20:16:32:44] | INFO | query execution done
+[2023-04-20:16:32:45] | INFO | query: [ROLLBACK]
+[2023-04-20:16:32:45] | INFO | query execution done
+[2023-04-20:16:33:26] | INFO | query: [ROLLBACK]
+[2023-04-20:16:33:26] | INFO | query execution done
+[2023-04-20:16:33:26] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-20:16:33:26] | INFO | query execution done
+[2023-04-20:16:33:26] | INFO | query: [ROLLBACK]
+[2023-04-20:16:33:26] | INFO | query execution done
+[2023-04-20:16:33:26] | INFO | query: [ROLLBACK]
+[2023-04-20:16:33:26] | INFO | query execution done
+[2023-04-20:16:33:26] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-20:16:33:27] | INFO | query execution done
+[2023-04-20:16:33:29] | INFO | query: [ROLLBACK]
+[2023-04-20:16:33:29] | INFO | query execution done
+[2023-04-20:17:11:50] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-20:17:11:50] | INFO | query execution done
+[2023-04-20:17:11:50] | INFO | query: [ROLLBACK]
+[2023-04-20:17:11:50] | INFO | query execution done
+[2023-04-20:17:11:50] | INFO | query: [ROLLBACK]
+[2023-04-20:17:11:51] | INFO | query execution done
+[2023-04-20:17:12:29] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-20:17:12:29] | INFO | query: [ROLLBACK]
+[2023-04-20:17:12:29] | INFO | query execution done
+[2023-04-20:17:12:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-20:17:12:29] | INFO | query execution done
+[2023-04-20:17:12:30] | INFO | query: [ROLLBACK]
+[2023-04-20:17:12:30] | INFO | query execution done
+[2023-04-20:17:12:30] | INFO | query: [ROLLBACK]
+[2023-04-20:17:12:30] | INFO | query execution done
+[2023-04-20:17:12:30] | INFO | query: [CREATE TABLE "DDRPF".adjusted_sales_forecast ( option_sales_fcst TEXT, primary_c...]
+[2023-04-20:17:12:30] | INFO | query execution done
+[2023-04-20:17:12:30] | INFO | query: [COMMIT]
+[2023-04-20:17:12:30] | INFO | query execution done
+[2023-04-20:17:12:30] | INFO | query: [ROLLBACK]
+[2023-04-20:17:12:30] | INFO | query execution done
+[2023-04-20:17:12:34] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-20:17:12:39] | INFO | query execution done
+[2023-04-20:17:12:43] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-20:17:12:48] | INFO | query execution done
+[2023-04-20:17:12:49] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-20:17:12:51] | INFO | query execution done
+[2023-04-20:17:12:51] | INFO | query: [COMMIT]
+[2023-04-20:17:12:51] | INFO | query execution done
+[2023-04-20:17:12:51] | INFO | query: [ROLLBACK]
+[2023-04-20:17:12:51] | INFO | query execution done
+[2023-04-21:15:59:25] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-21:15:59:25] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-21:15:59:25] | INFO | Setting use_openssl_only mode to False
+[2023-04-21:15:59:27] | INFO | query: [select current_database(), current_schema();]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:27] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:27] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:27] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:27] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:27] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:27] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-21:15:59:27] | INFO | query execution done
+[2023-04-21:15:59:28] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:28] | INFO | query execution done
+[2023-04-21:15:59:29] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:29] | INFO | query execution done
+[2023-04-21:15:59:29] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-21:15:59:29] | INFO | query execution done
+[2023-04-21:15:59:29] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:29] | INFO | query execution done
+[2023-04-21:15:59:29] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:29] | INFO | query execution done
+[2023-04-21:15:59:29] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-21:15:59:29] | INFO | query execution done
+[2023-04-21:15:59:30] | INFO | query: [ROLLBACK]
+[2023-04-21:15:59:30] | INFO | query execution done
+[2023-04-24:15:32:12] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-24:15:32:12] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-24:15:32:12] | INFO | Setting use_openssl_only mode to False
+[2023-04-24:15:32:15] | INFO | query: [select current_database(), current_schema();]
+[2023-04-24:15:32:15] | INFO | query execution done
+[2023-04-24:15:32:15] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:15] | INFO | query execution done
+[2023-04-24:15:32:15] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:16] | INFO | query execution done
+[2023-04-24:15:32:16] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-24:15:32:16] | INFO | query execution done
+[2023-04-24:15:32:16] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:16] | INFO | query execution done
+[2023-04-24:15:32:16] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:16] | INFO | query execution done
+[2023-04-24:15:32:16] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-24:15:32:17] | INFO | query execution done
+[2023-04-24:15:32:18] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:18] | INFO | query execution done
+[2023-04-24:15:32:18] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:18] | INFO | query execution done
+[2023-04-24:15:32:18] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-24:15:32:18] | INFO | query execution done
+[2023-04-24:15:32:18] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:18] | INFO | query execution done
+[2023-04-24:15:32:18] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:18] | INFO | query execution done
+[2023-04-24:15:32:18] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-24:15:32:19] | INFO | query execution done
+[2023-04-24:15:32:19] | INFO | query: [ROLLBACK]
+[2023-04-24:15:32:20] | INFO | query execution done
+[2023-04-24:15:34:21] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-24:15:34:21] | INFO | query execution done
+[2023-04-24:15:34:21] | INFO | query: [COMMIT]
+[2023-04-24:15:34:21] | INFO | query execution done
+[2023-04-24:15:34:21] | INFO | query: [ROLLBACK]
+[2023-04-24:15:34:22] | INFO | query execution done
+[2023-04-24:15:34:22] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-24:15:34:22] | INFO | query: [ROLLBACK]
+[2023-04-24:15:34:22] | INFO | query execution done
+[2023-04-24:15:34:22] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-24:15:34:22] | INFO | query execution done
+[2023-04-24:15:34:22] | INFO | query: [ROLLBACK]
+[2023-04-24:15:34:22] | INFO | query execution done
+[2023-04-24:15:34:27] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:15:34:31] | INFO | query execution done
+[2023-04-24:15:34:37] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:15:34:41] | INFO | query execution done
+[2023-04-24:15:34:46] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:15:34:49] | INFO | query execution done
+[2023-04-24:15:34:49] | INFO | query: [COMMIT]
+[2023-04-24:15:34:49] | INFO | query execution done
+[2023-04-24:15:34:49] | INFO | query: [ROLLBACK]
+[2023-04-24:15:34:49] | INFO | query execution done
+[2023-04-24:16:30:56] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-24:16:30:58] | INFO | query execution done
+[2023-04-24:16:30:58] | INFO | query: [COMMIT]
+[2023-04-24:16:30:58] | INFO | query execution done
+[2023-04-24:16:30:58] | INFO | query: [ROLLBACK]
+[2023-04-24:16:30:58] | INFO | query execution done
+[2023-04-24:16:30:58] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-24:16:30:58] | INFO | query: [ROLLBACK]
+[2023-04-24:16:30:59] | INFO | query execution done
+[2023-04-24:16:30:59] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-24:16:30:59] | INFO | query execution done
+[2023-04-24:16:30:59] | INFO | query: [ROLLBACK]
+[2023-04-24:16:30:59] | INFO | query execution done
+[2023-04-24:16:31:04] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:16:31:09] | INFO | query execution done
+[2023-04-24:16:31:16] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:16:31:21] | INFO | query execution done
+[2023-04-24:16:31:23] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:16:31:25] | INFO | query execution done
+[2023-04-24:16:31:25] | INFO | query: [COMMIT]
+[2023-04-24:16:31:26] | INFO | query execution done
+[2023-04-24:16:31:26] | INFO | query: [ROLLBACK]
+[2023-04-24:16:31:26] | INFO | query execution done
+[2023-04-24:16:59:11] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-24:16:59:11] | INFO | query execution done
+[2023-04-24:16:59:11] | INFO | query: [COMMIT]
+[2023-04-24:16:59:12] | INFO | query execution done
+[2023-04-24:16:59:12] | INFO | query: [ROLLBACK]
+[2023-04-24:16:59:12] | INFO | query execution done
+[2023-04-24:16:59:12] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-24:16:59:12] | INFO | query: [ROLLBACK]
+[2023-04-24:16:59:12] | INFO | query execution done
+[2023-04-24:16:59:12] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-24:16:59:12] | INFO | query execution done
+[2023-04-24:16:59:12] | INFO | query: [ROLLBACK]
+[2023-04-24:16:59:12] | INFO | query execution done
+[2023-04-24:16:59:18] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:16:59:22] | INFO | query execution done
+[2023-04-24:16:59:29] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:16:59:33] | INFO | query execution done
+[2023-04-24:16:59:34] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-24:16:59:36] | INFO | query execution done
+[2023-04-24:16:59:36] | INFO | query: [COMMIT]
+[2023-04-24:16:59:37] | INFO | query execution done
+[2023-04-24:16:59:37] | INFO | query: [ROLLBACK]
+[2023-04-24:16:59:37] | INFO | query execution done
+[2023-04-25:17:03:40] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-25:17:03:40] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-25:17:03:40] | INFO | Setting use_openssl_only mode to False
+[2023-04-25:17:03:42] | INFO | query: [select current_database(), current_schema();]
+[2023-04-25:17:03:42] | INFO | query execution done
+[2023-04-25:17:03:42] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:42] | INFO | query execution done
+[2023-04-25:17:03:42] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:42] | INFO | query execution done
+[2023-04-25:17:03:42] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-25:17:03:42] | INFO | query execution done
+[2023-04-25:17:03:43] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:43] | INFO | query execution done
+[2023-04-25:17:03:43] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:43] | INFO | query execution done
+[2023-04-25:17:03:43] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-25:17:03:44] | INFO | query execution done
+[2023-04-25:17:03:45] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:45] | INFO | query execution done
+[2023-04-25:17:03:45] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:45] | INFO | query execution done
+[2023-04-25:17:03:45] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-25:17:03:45] | INFO | query execution done
+[2023-04-25:17:03:45] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:45] | INFO | query execution done
+[2023-04-25:17:03:45] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:45] | INFO | query execution done
+[2023-04-25:17:03:45] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-25:17:03:46] | INFO | query execution done
+[2023-04-25:17:03:48] | INFO | query: [ROLLBACK]
+[2023-04-25:17:03:48] | INFO | query execution done
+[2023-04-25:17:04:21] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-25:17:04:21] | INFO | query execution done
+[2023-04-25:17:04:21] | INFO | query: [COMMIT]
+[2023-04-25:17:04:21] | INFO | query execution done
+[2023-04-25:17:04:21] | INFO | query: [ROLLBACK]
+[2023-04-25:17:04:22] | INFO | query execution done
+[2023-04-25:17:04:22] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-25:17:04:22] | INFO | query: [ROLLBACK]
+[2023-04-25:17:04:22] | INFO | query execution done
+[2023-04-25:17:04:22] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-25:17:04:22] | INFO | query execution done
+[2023-04-25:17:04:22] | INFO | query: [ROLLBACK]
+[2023-04-25:17:04:22] | INFO | query execution done
+[2023-04-25:17:04:26] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-25:17:04:30] | INFO | query execution done
+[2023-04-25:17:04:37] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-25:17:04:41] | INFO | query execution done
+[2023-04-25:17:04:43] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-25:17:04:44] | INFO | query execution done
+[2023-04-25:17:04:44] | INFO | query: [COMMIT]
+[2023-04-25:17:04:45] | INFO | query execution done
+[2023-04-25:17:04:45] | INFO | query: [ROLLBACK]
+[2023-04-25:17:04:45] | INFO | query execution done
+[2023-04-25:17:06:47] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-25:17:06:47] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-25:17:06:47] | INFO | Setting use_openssl_only mode to False
+[2023-04-25:17:06:49] | INFO | query: [select current_database(), current_schema();]
+[2023-04-25:17:06:49] | INFO | query execution done
+[2023-04-25:17:06:49] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:49] | INFO | query execution done
+[2023-04-25:17:06:49] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:49] | INFO | query execution done
+[2023-04-25:17:06:49] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-25:17:06:49] | INFO | query execution done
+[2023-04-25:17:06:49] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:49] | INFO | query execution done
+[2023-04-25:17:06:49] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:49] | INFO | query execution done
+[2023-04-25:17:06:49] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-25:17:06:50] | INFO | query execution done
+[2023-04-25:17:06:52] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:52] | INFO | query execution done
+[2023-04-25:17:06:52] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:52] | INFO | query execution done
+[2023-04-25:17:06:52] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-25:17:06:52] | INFO | query execution done
+[2023-04-25:17:06:52] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:53] | INFO | query execution done
+[2023-04-25:17:06:53] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:53] | INFO | query execution done
+[2023-04-25:17:06:53] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-25:17:06:53] | INFO | query execution done
+[2023-04-25:17:06:54] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:54] | INFO | query execution done
+[2023-04-25:17:06:56] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-25:17:06:57] | INFO | query execution done
+[2023-04-25:17:06:57] | INFO | query: [COMMIT]
+[2023-04-25:17:06:57] | INFO | query execution done
+[2023-04-25:17:06:57] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:57] | INFO | query execution done
+[2023-04-25:17:06:57] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-25:17:06:58] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:58] | INFO | query execution done
+[2023-04-25:17:06:58] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-25:17:06:58] | INFO | query execution done
+[2023-04-25:17:06:58] | INFO | query: [ROLLBACK]
+[2023-04-25:17:06:58] | INFO | query execution done
+[2023-04-25:17:07:03] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-25:17:07:07] | INFO | query execution done
+[2023-04-25:17:07:11] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-25:17:07:15] | INFO | query execution done
+[2023-04-25:17:07:17] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-25:17:07:18] | INFO | query execution done
+[2023-04-25:17:07:18] | INFO | query: [COMMIT]
+[2023-04-25:17:07:19] | INFO | query execution done
+[2023-04-25:17:07:19] | INFO | query: [ROLLBACK]
+[2023-04-25:17:07:19] | INFO | query execution done
+[2023-04-26:13:51:10] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-26:13:51:10] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-26:13:51:10] | INFO | Setting use_openssl_only mode to False
+[2023-04-26:13:51:12] | INFO | query: [select current_database(), current_schema();]
+[2023-04-26:13:51:12] | INFO | query execution done
+[2023-04-26:13:51:13] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:13] | INFO | query execution done
+[2023-04-26:13:51:13] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:13] | INFO | query execution done
+[2023-04-26:13:51:13] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-26:13:51:13] | INFO | query execution done
+[2023-04-26:13:51:13] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:13] | INFO | query execution done
+[2023-04-26:13:51:13] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:13] | INFO | query execution done
+[2023-04-26:13:51:13] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-26:13:51:13] | INFO | query execution done
+[2023-04-26:13:51:15] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:15] | INFO | query execution done
+[2023-04-26:13:51:15] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:15] | INFO | query execution done
+[2023-04-26:13:51:15] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."sales_forec...]
+[2023-04-26:13:51:15] | INFO | query execution done
+[2023-04-26:13:51:15] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:15] | INFO | query execution done
+[2023-04-26:13:51:15] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:15] | INFO | query execution done
+[2023-04-26:13:51:15] | INFO | query: [select * from ksfta.ddrpf.sales_forecast_kafe where run_date = '2023-03-27']
+[2023-04-26:13:51:15] | INFO | query execution done
+[2023-04-26:13:51:16] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:16] | INFO | query execution done
+[2023-04-26:13:51:18] | INFO | query: [delete from ksfta.ddrpf.adjusted_sales_forecast where run_date = '2023-03-27']
+[2023-04-26:13:51:19] | INFO | query execution done
+[2023-04-26:13:51:19] | INFO | query: [COMMIT]
+[2023-04-26:13:51:19] | INFO | query execution done
+[2023-04-26:13:51:19] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:19] | INFO | query execution done
+[2023-04-26:13:51:19] | INFO | Inserting into table: adjusted_sales_forecast
+[2023-04-26:13:51:19] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:19] | INFO | query execution done
+[2023-04-26:13:51:19] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "DDRPF".adjusted_sales_forecast]
+[2023-04-26:13:51:19] | INFO | query execution done
+[2023-04-26:13:51:19] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:19] | INFO | query execution done
+[2023-04-26:13:51:24] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-26:13:51:28] | INFO | query execution done
+[2023-04-26:13:51:33] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-26:13:51:37] | INFO | query execution done
+[2023-04-26:13:51:40] | INFO | query: [INSERT INTO "DDRPF".adjusted_sales_forecast (option_sales_fcst, primary_colour, ...]
+[2023-04-26:13:51:42] | INFO | query execution done
+[2023-04-26:13:51:42] | INFO | query: [COMMIT]
+[2023-04-26:13:51:42] | INFO | query execution done
+[2023-04-26:13:51:43] | INFO | query: [ROLLBACK]
+[2023-04-26:13:51:43] | INFO | query execution done
+[2023-04-26:15:15:20] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-26:15:15:20] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-26:15:15:21] | INFO | query: [select current_database(), current_schema();]
+[2023-04-26:15:15:21] | INFO | query execution done
+[2023-04-26:15:15:21] | INFO | query: [ROLLBACK]
+[2023-04-26:15:15:21] | INFO | query execution done
+[2023-04-26:15:15:21] | INFO | query: [ROLLBACK]
+[2023-04-26:15:15:21] | INFO | query execution done
+[2023-04-26:15:15:21] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ " select distinct concat('F',substr(ACCO...]
+[2023-04-26:15:15:21] | INFO | query execution done
+[2023-04-26:15:15:21] | INFO | query: [ROLLBACK]
+[2023-04-26:15:15:21] | INFO | query execution done
+[2023-04-26:15:15:21] | INFO | query: [ROLLBACK]
+[2023-04-26:15:15:21] | INFO | query execution done
+[2023-04-26:15:15:21] | INFO | query: [select distinct concat('F',substr(ACCOUNTING_YEAR_ID,3,2),'P',to_number(substr(A...]
+[2023-04-26:15:15:22] | INFO | query execution done
+[2023-04-26:15:15:22] | INFO | query: [ROLLBACK]
+[2023-04-26:15:15:22] | INFO | query execution done
+[2023-04-26:15:27:01] | INFO | query: [ROLLBACK]
+[2023-04-26:15:27:01] | INFO | query execution done
+[2023-04-26:15:27:01] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select * from ksfta".ddrpf."prepped_inp...]
+[2023-04-26:15:27:01] | INFO | query execution done
+[2023-04-26:15:27:01] | INFO | query: [ROLLBACK]
+[2023-04-26:15:27:02] | INFO | query execution done
+[2023-04-26:15:27:02] | INFO | query: [ROLLBACK]
+[2023-04-26:15:27:02] | INFO | query execution done
+[2023-04-26:15:27:02] | INFO | query: [select * from ksfta.ddrpf.prepped_input_data_options where run_date = '2023-03-2...]
+[2023-04-26:15:27:02] | INFO | query execution done
+[2023-04-26:15:27:03] | INFO | query: [ROLLBACK]
+[2023-04-26:15:27:03] | INFO | query execution done
+[2023-04-27:16:24:42] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-27:16:24:43] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-27:16:24:43] | INFO | Setting use_openssl_only mode to False
+[2023-04-27:16:24:45] | INFO | query: [select current_database(), current_schema();]
+[2023-04-27:16:24:45] | INFO | query execution done
+[2023-04-27:16:24:45] | INFO | query: [ROLLBACK]
+[2023-04-27:16:24:45] | INFO | query execution done
+[2023-04-27:16:24:45] | INFO | query: [ROLLBACK]
+[2023-04-27:16:24:45] | INFO | query execution done
+[2023-04-27:16:24:45] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-04-27:16:24:45] | INFO | query execution done
+[2023-04-27:16:24:45] | INFO | query: [ROLLBACK]
+[2023-04-27:16:24:45] | INFO | query execution done
+[2023-04-27:16:24:45] | INFO | query: [ROLLBACK]
+[2023-04-27:16:24:46] | INFO | query execution done
+[2023-04-27:16:24:46] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-04-27:16:24:50] | INFO | query execution done
+[2023-04-27:16:24:55] | INFO | query: [ROLLBACK]
+[2023-04-27:16:24:55] | INFO | query execution done
+[2023-04-27:16:25:36] | INFO | Snowflake Connector for Python Version: 2.7.11, Python Version: 3.10.5, Platform: Windows-10-10.0.19045-SP0
+[2023-04-27:16:25:36] | INFO | This connection is in OCSP Fail Open Mode. TLS Certificates would be checked for validity and revocation status. Any other Certificate Revocation related exceptions or OCSP Responder failures would be disregarded in favor of connectivity.
+[2023-04-27:16:25:36] | INFO | Setting use_openssl_only mode to False
+[2023-04-27:16:25:37] | INFO | query: [select current_database(), current_schema();]
+[2023-04-27:16:25:37] | INFO | query execution done
+[2023-04-27:16:25:37] | INFO | query: [ROLLBACK]
+[2023-04-27:16:25:37] | INFO | query execution done
+[2023-04-27:16:25:37] | INFO | query: [ROLLBACK]
+[2023-04-27:16:25:37] | INFO | query execution done
+[2023-04-27:16:25:37] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "(with date_fpw as ( select distinct DAY...]
+[2023-04-27:16:25:37] | INFO | query execution done
+[2023-04-27:16:25:37] | INFO | query: [ROLLBACK]
+[2023-04-27:16:25:37] | INFO | query execution done
+[2023-04-27:16:25:37] | INFO | query: [ROLLBACK]
+[2023-04-27:16:25:37] | INFO | query execution done
+[2023-04-27:16:25:37] | INFO | query: [(with date_fpw as ( select distinct DAY_DATE, concat('F',substr(ACCOUNTING_YEAR_...]
+[2023-04-27:16:25:39] | INFO | query execution done
+[2023-04-27:16:25:41] | INFO | query: [ROLLBACK]
+[2023-04-27:16:25:41] | INFO | query execution done
+[2023-04-27:17:18:35] | INFO | query: [ROLLBACK]
+[2023-04-27:17:18:35] | INFO | query execution done
+[2023-04-27:17:18:35] | INFO | query: [DESC TABLE /* sqlalchemy:_has_object */ "select distinct TPR_ID,PRODUCT_STYLE_SO...]
+[2023-04-27:17:18:35] | INFO | query execution done
+[2023-04-27:17:18:35] | INFO | query: [ROLLBACK]
+[2023-04-27:17:18:35] | INFO | query execution done
+[2023-04-27:17:18:35] | INFO | query: [ROLLBACK]
+[2023-04-27:17:18:35] | INFO | query execution done
+[2023-04-27:17:18:35] | INFO | query: [select distinct TPR_ID,PRODUCT_STYLE_SOURCE_ID,COLOUR,COLOUR_SEC,AWS as Recommen...]
+[2023-04-27:17:18:37] | INFO | query execution done
+[2023-04-27:17:18:38] | INFO | query: [ROLLBACK]
+[2023-04-27:17:18:38] | INFO | query execution done

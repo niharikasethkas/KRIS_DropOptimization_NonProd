@@ -1,0 +1,8 @@
+numpy
+pandas
+requests
+# xlwings==0.24.3
+ortools
+# xlrd
+# openpyxl
+pytest
